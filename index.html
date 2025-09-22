@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Marine Turtle Events Map</title>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <h2>Marine Turtle Events in Sunshine Coast</h2>
+        <div id="vis"></div>
+
+        <script type="text/javascript">
+            vegaEmbed('#vis', 'map.json').then(function(result) {}).catch(console.error);
+        </script>
+    </body>
+</html>
