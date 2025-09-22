@@ -1,1 +1,2405 @@
-{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"EPSG:4326"}},"features":[{"type":"Feature","id":1,"geometry":null,"properties":{"OBJECTID":1,"globalid":"102ff62a-1c06-493a-bbd4-d2a3430a0d34","datefound":"Fri, 15 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"green","lgid1":"ea687a61-0eb2-4710-a56b-79770f4d30b1","eventid":"2N","beach":"Bokarina"}},{"type":"Feature","id":2,"geometry":null,"properties":{"OBJECTID":2,"globalid":"5622192d-ae35-4e27-b679-0068bedef978","datefound":"Fri, 15 Nov 2024 02:00:00 GMT","laidactivity":"laiddist","turtlespecies":"loggerhead","lgid1":"e9d70bd4-3d62-4c77-bbed-e597a776e5dd","eventid":"3?","beach":"Shelly"}},{"type":"Feature","id":3,"geometry":null,"properties":{"OBJECTID":3,"globalid":"dc88a409-1e02-41d6-9200-c05476766b97","datefound":"Mon, 18 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"86b2a4f7-a8a1-4cd6-8731-074f778705b9","eventid":"6N","beach":"NorthBribie"}},{"type":"Feature","id":4,"geometry":null,"properties":{"OBJECTID":4,"globalid":"08552c3c-7a21-4844-a416-6ab778e1bad0","datefound":"Tue, 19 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"544fa1ad-8d0f-48c5-a753-3ed8321cad4e","eventid":"7N","beach":"Warana"}},{"type":"Feature","id":5,"geometry":null,"properties":{"OBJECTID":5,"globalid":"619ac05b-e46d-4b51-9679-110f27bd1faf","datefound":"Wed, 20 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"fbc6d4c5-8052-4a29-a181-0f332fe2f405","eventid":"9N","beach":"Bokarina"}},{"type":"Feature","id":6,"geometry":null,"properties":{"OBJECTID":6,"globalid":"068c64e1-32a0-4e6e-8c1b-8d07e9805532","datefound":"Wed, 20 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"e9df65e6-6bbb-4ccd-ac36-91d29b057fbf","eventid":"10N","beach":"Bribie"}},{"type":"Feature","id":7,"geometry":null,"properties":{"OBJECTID":7,"globalid":"d73a5fe0-acb1-4fc3-bcf5-fb6249d5896a","datefound":"Wed, 20 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"4d2b420e-3e3e-443b-805b-4b89620bdddc","eventid":"28T","beach":"Bribie"}},{"type":"Feature","id":8,"geometry":null,"properties":{"OBJECTID":8,"globalid":"0ca063ad-4864-4d0d-a885-9ac227c00b0b","datefound":"Sat, 23 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"1278e19f-a63f-4a21-841d-0cec6036ebf4","eventid":"17T","beach":"Buddina"}},{"type":"Feature","id":9,"geometry":null,"properties":{"OBJECTID":9,"globalid":"09b5d84a-8b35-4f5f-b196-5cb98eb7fbef","datefound":"Sat, 23 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"91c9d23c-04da-4fc8-b619-8a591f33c40a","eventid":"18T","beach":"Buddina"}},{"type":"Feature","id":10,"geometry":null,"properties":{"OBJECTID":10,"globalid":"4f024cd8-6378-48a8-9fe2-ce2806934635","datefound":"Sat, 23 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"2e0fe9f9-cdcf-47c5-b448-6b2198a58478","eventid":"21N","beach":"Buddina"}},{"type":"Feature","id":11,"geometry":null,"properties":{"OBJECTID":11,"globalid":"ecd6bc83-828d-4a98-a8f9-2504de04d8e4","datefound":"Thu, 21 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"fd11cf0b-c5d0-4cd4-9c4b-ae874e31e150","eventid":"11N","beach":"Bribie"}},{"type":"Feature","id":12,"geometry":null,"properties":{"OBJECTID":12,"globalid":"2f986416-e949-46f6-9f4c-ee2b6b845ffc","datefound":"Sun, 24 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"e979aac7-cf19-4003-845a-b7205c33f9fa","eventid":"24N","beach":"Bribie"}},{"type":"Feature","id":13,"geometry":null,"properties":{"OBJECTID":13,"globalid":"8cbc54df-db3e-4559-b466-fa19e20c3c67","datefound":"Wed, 20 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"e0c6fc2f-ee89-46b5-ae47-3666af17e535","eventid":"8N","beach":"Buddina"}},{"type":"Feature","id":14,"geometry":null,"properties":{"OBJECTID":14,"globalid":"0c465d26-27e0-433b-8980-3f43a91187a1","datefound":"Sat, 23 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"7f843767-b4fc-4f0f-b23c-b907f8560ef0","eventid":"16T","beach":"Buddina"}},{"type":"Feature","id":15,"geometry":null,"properties":{"OBJECTID":15,"globalid":"b1e36193-7b11-4d84-bac1-8169b17bc3d0","datefound":"Sun, 17 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"2435b95a-1b2e-428a-b8c4-862177f646ac","eventid":"5N","beach":"Shelly"}},{"type":"Feature","id":16,"geometry":null,"properties":{"OBJECTID":16,"globalid":"5f7f0d76-2eb1-4857-b4b7-bcb64bfa709b","datefound":"Wed, 27 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"6121ffcb-5e0b-4168-9f3c-10c0d862db61","eventid":"27T","beach":"Buddina"}},{"type":"Feature","id":17,"geometry":null,"properties":{"OBJECTID":17,"globalid":"c247e2ab-0a35-4dfe-af8b-d2d41928d645","datefound":"Sun, 01 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"7eda8fc8-7065-400d-a817-3c19ed558123","eventid":"34N","beach":"Warana"}},{"type":"Feature","id":18,"geometry":null,"properties":{"OBJECTID":18,"globalid":"487a1874-149f-4711-9170-0e609e46163f","datefound":"Fri, 22 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"9a806e45-5028-4451-b104-b5bb0ff053a2","eventid":"12T","beach":"Bribie"}},{"type":"Feature","id":19,"geometry":null,"properties":{"OBJECTID":19,"globalid":"d4fa1a70-981d-45c4-ab92-7b8f570c230e","datefound":"Fri, 22 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"722e0b2e-0847-4a00-b2cb-742c877bd478","eventid":"13T","beach":"Bribie"}},{"type":"Feature","id":20,"geometry":null,"properties":{"OBJECTID":20,"globalid":"d0a1b64b-203a-45e4-b863-ba08a74a1513","datefound":"Fri, 22 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"4bd01204-e351-41fa-b77d-b6aa809e81e2","eventid":"14T","beach":"Bribie"}},{"type":"Feature","id":21,"geometry":null,"properties":{"OBJECTID":21,"globalid":"bc5a6f45-9a8b-458a-8b82-392dc9bd8f65","datefound":"Fri, 22 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"green","lgid1":"b6b83e01-d611-4398-b1ac-65a457feb661","eventid":"15T","beach":"Bribie"}},{"type":"Feature","id":22,"geometry":null,"properties":{"OBJECTID":22,"globalid":"b90a97e7-d7ed-4e06-9f4f-dfcb360ec7f8","datefound":"Sat, 23 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"c1031822-7df6-4568-873f-632b4c730b2b","eventid":"19T","beach":"Bribie"}},{"type":"Feature","id":23,"geometry":null,"properties":{"OBJECTID":23,"globalid":"b368eb7b-d965-4e14-b990-62447bd3d86d","datefound":"Sat, 23 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"5660b26d-a183-4b55-b3f6-4025541e0eb6","eventid":"20T","beach":"Bribie"}},{"type":"Feature","id":24,"geometry":null,"properties":{"OBJECTID":24,"globalid":"9875944f-20b0-41ac-9855-68855836040e","datefound":"Mon, 25 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"green","lgid1":"665d087a-74b0-464d-9655-ccc17874d8b6","eventid":"23T","beach":"Bribie"}},{"type":"Feature","id":25,"geometry":null,"properties":{"OBJECTID":25,"globalid":"aac78cc2-106f-474a-bb8d-069deff4ffcc","datefound":"Mon, 25 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"2f9deda1-6d95-4bf3-99a1-058905ea492a","eventid":"25N","beach":"Bribie"}},{"type":"Feature","id":26,"geometry":null,"properties":{"OBJECTID":26,"globalid":"a5daaaa6-5b14-4c4e-a3d7-bdd90db5b063","datefound":"Tue, 03 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"7f91a967-5de4-4330-adfa-e1d6e23fa696","eventid":"39T","beach":"Bokarina"}},{"type":"Feature","id":27,"geometry":null,"properties":{"OBJECTID":27,"globalid":"c605fbbd-0759-4b9b-b045-a5b162088322","datefound":"Thu, 28 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"a3df0be0-a78a-4c5a-9af7-8f3ba7cb4b48","eventid":"32N","beach":"Shelly"}},{"type":"Feature","id":28,"geometry":null,"properties":{"OBJECTID":28,"globalid":"8adde494-4ce8-4228-8bd3-08091cabc5f5","datefound":"Tue, 10 Dec 2024 14:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"f322336c-2d89-46df-95ec-ea563bfd5b01","eventid":"1N","beach":"Buddina"}},{"type":"Feature","id":29,"geometry":null,"properties":{"OBJECTID":29,"globalid":"8403f8d6-fa28-4df0-8612-50749ffae51c","datefound":"Sun, 24 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"3a5a50a9-4e11-416d-b42f-2f1e5443832a","eventid":"22N","beach":"Buddina"}},{"type":"Feature","id":30,"geometry":null,"properties":{"OBJECTID":30,"globalid":"d5cce47f-96ef-40a8-90fd-7909482c40c6","datefound":"Wed, 27 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"05ba5316-be94-44d8-83d0-1b3accef98a9","eventid":"30T","beach":"Buddina"}},{"type":"Feature","id":31,"geometry":null,"properties":{"OBJECTID":31,"globalid":"6a6023f1-f817-4398-9b40-753adcd4d51a","datefound":"Wed, 27 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"7927ca48-9a1f-4920-b53e-1a7521179b25","eventid":"31T","beach":"Buddina"}},{"type":"Feature","id":32,"geometry":null,"properties":{"OBJECTID":32,"globalid":"1cad79ab-3ffb-4f73-b932-1cd8b985b08a","datefound":"Thu, 28 Nov 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"674eb310-cccc-43d5-a1a8-11c974b852fc","eventid":"33N","beach":"Buddina"}},{"type":"Feature","id":33,"geometry":null,"properties":{"OBJECTID":33,"globalid":"f3895862-cc23-4c7d-9ede-64f5caae3f2b","datefound":"Wed, 04 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"13da1fbc-e520-42d8-b35c-e29371613956","eventid":"40N","beach":"Bribie"}},{"type":"Feature","id":34,"geometry":null,"properties":{"OBJECTID":34,"globalid":"7e81ec2a-043a-4485-8a6a-d19e4ceee75f","datefound":"Tue, 03 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"0f2ab0f7-f1d8-40f4-8c68-9822ed51b485","eventid":"37N","beach":"NorthBribie"}},{"type":"Feature","id":35,"geometry":null,"properties":{"OBJECTID":35,"globalid":"93cc2b15-2816-4d2c-aab2-ec5b6eb96fad","datefound":"Thu, 05 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"13c938bb-d4df-4ab7-87ad-edfdb349b54a","eventid":"42N","beach":"Shelly"}},{"type":"Feature","id":36,"geometry":null,"properties":{"OBJECTID":36,"globalid":"ce8b81e7-0fa1-4904-97fa-772ffa6780e1","datefound":"Fri, 06 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"d57e16b0-85c1-4ec5-99ff-2481b87d5366","eventid":"43N","beach":"Bokarina"}},{"type":"Feature","id":37,"geometry":null,"properties":{"OBJECTID":37,"globalid":"ac4386d7-9944-4c48-82d2-0699e61b1e50","datefound":"Fri, 06 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"40c6cdc4-8261-4aef-9497-f10e189508ba","eventid":"61T","beach":"Bokarina"}},{"type":"Feature","id":38,"geometry":null,"properties":{"OBJECTID":38,"globalid":"db99c43a-2787-4961-99ec-22a1742aacb5","datefound":"Fri, 06 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"6a95e0fc-e7f9-41f3-a255-813a9f190dbd","eventid":"44N","beach":"Dicky"}},{"type":"Feature","id":39,"geometry":null,"properties":{"OBJECTID":39,"globalid":"ea251536-e5d5-41d6-81f6-723bf06d1195","datefound":"Sat, 07 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"200d53fd-06d9-412d-8dd7-9842b6337a37","eventid":"48T","beach":"Buddina"}},{"type":"Feature","id":40,"geometry":null,"properties":{"OBJECTID":40,"globalid":"9b7adff7-73a8-4db3-ae8a-a8c272ab0ebf","datefound":"Sun, 08 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"638e8e00-7134-47b3-ba26-65b399a269f1","eventid":"49N","beach":"Warana"}},{"type":"Feature","id":41,"geometry":null,"properties":{"OBJECTID":41,"globalid":"c5e10496-4078-4f65-b2f5-b7e075b022df","datefound":"Sun, 08 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"b64c083a-8743-4237-ad0a-8005c915372b","eventid":"51N","beach":"Buddina,Mooloolaba"}},{"type":"Feature","id":42,"geometry":null,"properties":{"OBJECTID":42,"globalid":"12137d8d-e40d-41cc-a0f2-9764eab4aa8a","datefound":"Mon, 09 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"09eae4a4-9783-4ac9-b15f-d950d6f59071","eventid":"52N","beach":"Shelly"}},{"type":"Feature","id":43,"geometry":null,"properties":{"OBJECTID":43,"globalid":"ee255761-990c-4913-bca9-6df8b6c83b9d","datefound":"Tue, 10 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"a1a1013e-8a56-4f41-9efb-d1df2f530439","eventid":"55N","beach":"Shelly"}},{"type":"Feature","id":44,"geometry":null,"properties":{"OBJECTID":44,"globalid":"2f119b14-d8dc-4b35-95f4-94ee9fb50a69","datefound":"Thu, 12 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"30b22ea3-f8c4-4ce8-be95-86a54224ab4c","eventid":"66N","beach":"Buddina"}},{"type":"Feature","id":45,"geometry":null,"properties":{"OBJECTID":45,"globalid":"2a285b67-71ee-4895-9010-e9ba65aa0643","datefound":"Sun, 15 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"c6b72e7b-cb11-4f8f-8d8b-f8e3fe71c22f","eventid":"76T","beach":"Buddina"}},{"type":"Feature","id":46,"geometry":null,"properties":{"OBJECTID":46,"globalid":"5fa44582-b350-4685-96a3-6a586f42aa81","datefound":"Sun, 17 Nov 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"a9e70351-2e94-4540-9595-5c52b56eb807","eventid":"4T","beach":"NorthBribie"}},{"type":"Feature","id":47,"geometry":null,"properties":{"OBJECTID":47,"globalid":"114e774c-759b-4950-affc-55d0eb6d98e4","datefound":"Tue, 17 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":null,"lgid1":"9d58462e-9e9c-4be1-ab11-1f5299072d76","eventid":"87T","beach":"Kings"}},{"type":"Feature","id":48,"geometry":null,"properties":{"OBJECTID":48,"globalid":"3267e2f4-4364-462b-9f9a-c2cb2bcfc153","datefound":"Sun, 15 Dec 2024 14:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"6ce4ee9f-1b7b-4d47-8128-5df936add0e6","eventid":"85T","beach":"Wurtulla"}},{"type":"Feature","id":49,"geometry":null,"properties":{"OBJECTID":49,"globalid":"589fa73a-5622-4bb3-b4cf-e6168d186261","datefound":"Thu, 12 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"2a8eb94f-79a3-44ff-aadc-2b4706d0db89","eventid":"64T","beach":"Buddina"}},{"type":"Feature","id":50,"geometry":null,"properties":{"OBJECTID":50,"globalid":"704ce2a8-5576-499d-9ecc-fdde87a5dfd1","datefound":"Thu, 12 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"20801f2e-d19b-493e-8a79-4ed9fa176103","eventid":"65T","beach":"Buddina"}},{"type":"Feature","id":51,"geometry":null,"properties":{"OBJECTID":51,"globalid":"9ff9a727-e833-41b3-966b-5d41677e7cba","datefound":"Fri, 13 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"5ccc53cb-1697-4838-bafc-a19c59a9b6f9","eventid":"69T","beach":"Buddina"}},{"type":"Feature","id":52,"geometry":null,"properties":{"OBJECTID":52,"globalid":"22f2bcba-6940-4cc5-9d93-9e8992b3583d","datefound":"Fri, 13 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"2228ce25-f0a7-42b1-b0db-255b60fa34a7","eventid":"70T","beach":"Buddina"}},{"type":"Feature","id":53,"geometry":null,"properties":{"OBJECTID":53,"globalid":"c9ce1949-b079-4ecd-be30-7e8ebbf4551f","datefound":"Sat, 14 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"732df3fe-b08c-4676-b14f-5f32837a295d","eventid":"72T","beach":"Buddina"}},{"type":"Feature","id":54,"geometry":null,"properties":{"OBJECTID":54,"globalid":"7f963e2a-c05a-48d5-a662-671979431bed","datefound":"Sat, 14 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"d5a9a8b6-15e9-4d24-8951-6f4927a3500b","eventid":"73T","beach":"Buddina"}},{"type":"Feature","id":55,"geometry":null,"properties":{"OBJECTID":55,"globalid":"c1c24d11-4ea1-4313-9883-58849cca481d","datefound":"Sat, 14 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"26cea7d0-6e7e-410f-b273-df310b5dd716","eventid":"74T","beach":"Buddina"}},{"type":"Feature","id":56,"geometry":null,"properties":{"OBJECTID":56,"globalid":"0798ca49-c262-4482-b5cc-020215c04b74","datefound":"Sat, 14 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"df783a0b-8320-4489-8592-3d296044e439","eventid":"75T","beach":"Buddina"}},{"type":"Feature","id":57,"geometry":null,"properties":{"OBJECTID":57,"globalid":"683850bf-cc2f-4da3-9704-e280f1f958fc","datefound":"Fri, 13 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"707a3385-dc32-4fd5-8c5d-e0ed48905c7c","eventid":"71T","beach":"Buddina"}},{"type":"Feature","id":58,"geometry":null,"properties":{"OBJECTID":58,"globalid":"db090134-528f-4e0e-b7c5-512b52a4f76b","datefound":"Sun, 15 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"2e43da0b-1c97-4832-93ad-fd28e3b99a3e","eventid":"78T","beach":"Buddina"}},{"type":"Feature","id":59,"geometry":null,"properties":{"OBJECTID":59,"globalid":"ae355719-bf24-40f9-a50c-b2806fd9fb17","datefound":"Mon, 16 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"753a20d7-0abd-4b45-9991-893bd2df592e","eventid":"79T","beach":"Buddina"}},{"type":"Feature","id":60,"geometry":null,"properties":{"OBJECTID":60,"globalid":"8d2c64f7-55d3-4ff0-94ff-9dea130336d5","datefound":"Mon, 16 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"6c815435-d777-4575-b100-d15435dab614","eventid":"80T","beach":"Buddina"}},{"type":"Feature","id":61,"geometry":null,"properties":{"OBJECTID":61,"globalid":"e7199c57-86b7-440d-832a-38abe2fd3aa6","datefound":"Mon, 16 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"17e8486f-f2ab-46ee-ae9b-d61a6d0fe962","eventid":"81T","beach":"Buddina"}},{"type":"Feature","id":62,"geometry":null,"properties":{"OBJECTID":62,"globalid":"555e669b-1fd0-4100-8ed9-022c695968a2","datefound":"Mon, 16 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"1995ca90-0083-4e2b-96d6-4cbe76ca6521","eventid":"82T","beach":"Buddina"}},{"type":"Feature","id":63,"geometry":null,"properties":{"OBJECTID":63,"globalid":"4c35ea37-5d4f-45aa-a31f-0e274fd52dd6","datefound":"Tue, 17 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"5e00d226-5842-4966-bbb5-e23ff4c2b798","eventid":"86T","beach":"Buddina"}},{"type":"Feature","id":64,"geometry":null,"properties":{"OBJECTID":64,"globalid":"b9bf38d8-e932-457c-9016-b7e69978875d","datefound":"Mon, 16 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"d063af66-44c1-46a9-a01c-70a7bcf5b445","eventid":"88N","beach":"Shelly"}},{"type":"Feature","id":65,"geometry":null,"properties":{"OBJECTID":65,"globalid":"64344291-b1e0-4165-9aeb-bd2ce71ea844","datefound":"Sat, 21 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"green","lgid1":"a86ac3a4-fc97-4596-9e08-f231b7c9c19b","eventid":"106N","beach":"Bokarina"}},{"type":"Feature","id":66,"geometry":null,"properties":{"OBJECTID":66,"globalid":"5f382ac1-1d27-4cf5-a4bb-5eeb4a92e31c","datefound":"Mon, 23 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"7fe3099c-0b4f-4460-a302-e39ebeaa6c2e","eventid":"112T","beach":"Shelly"}},{"type":"Feature","id":67,"geometry":null,"properties":{"OBJECTID":67,"globalid":"8b5fb049-2765-4fcb-a7b2-18b2a5eb48a2","datefound":"Sun, 22 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"ee84744e-e71c-4ec8-9133-db232e774be5","eventid":"110N","beach":"Currimundi"}},{"type":"Feature","id":68,"geometry":null,"properties":{"OBJECTID":68,"globalid":"07582414-be21-4e39-988a-717dc98ed152","datefound":"Tue, 24 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"8e786c12-cdf5-4be7-b55f-2f8addee205a","eventid":"116T","beach":"Bokarina"}},{"type":"Feature","id":69,"geometry":null,"properties":{"OBJECTID":69,"globalid":"fd699aa0-7908-4a05-bb3c-921a7e708168","datefound":"Mon, 23 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"4ee1407d-9536-485a-8c54-241857832fbc","eventid":"115N","beach":"Shelly"}},{"type":"Feature","id":70,"geometry":null,"properties":{"OBJECTID":70,"globalid":"cbcd5214-32d8-4db7-ac01-ce2c075dd6a7","datefound":"Tue, 31 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"ba161d06-a0c5-4906-ad0d-035fda1e49b7","eventid":"119N","beach":"Wurtulla"}},{"type":"Feature","id":71,"geometry":null,"properties":{"OBJECTID":71,"globalid":"1bc39e35-c739-45e5-ab0a-b72fd68b5bd4","datefound":"Sat, 28 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"7e33372c-e8dc-4c59-b991-4e4ca5880565","eventid":"237T","beach":"Dicky"}},{"type":"Feature","id":72,"geometry":null,"properties":{"OBJECTID":72,"globalid":"9a09a3a9-c524-4a0d-882e-0247157e96ff","datefound":"Thu, 02 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"bfdcd680-cb3c-4de0-99e1-412020e3f734","eventid":"122N","beach":"Shelly"}},{"type":"Feature","id":73,"geometry":null,"properties":{"OBJECTID":73,"globalid":"50fad97a-b053-433b-b052-363cb2bfe08a","datefound":"Thu, 02 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"0252fd7c-4ecc-47bf-8c73-e253ae3192da","eventid":"123N","beach":"Shelly"}},{"type":"Feature","id":74,"geometry":null,"properties":{"OBJECTID":74,"globalid":"a544bb4a-d89a-43f5-9718-5fad43aebfe6","datefound":"Sat, 04 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"d4ad049a-cab2-48bb-b906-8da74f967c95","eventid":"133N","beach":"Shelly"}},{"type":"Feature","id":75,"geometry":null,"properties":{"OBJECTID":75,"globalid":"5a3e5897-bc31-4c86-8ac0-5884218c72a6","datefound":"Sat, 04 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"908adc32-78af-42d7-a487-b79e885d2456","eventid":"88N","beach":"Shelly"}},{"type":"Feature","id":76,"geometry":null,"properties":{"OBJECTID":76,"globalid":"338aa690-acea-45f2-b593-3a96719dfc5d","datefound":"Mon, 06 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"7309af1c-3df3-4d6e-a604-ad060e8cd1be","eventid":"135N","beach":"Shelly"}},{"type":"Feature","id":77,"geometry":null,"properties":{"OBJECTID":77,"globalid":"ae11dea1-efb3-4ee4-955b-adc29f6b2c06","datefound":"Thu, 05 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"e12f0847-1e7d-420b-ac5d-c7a6484e1e53","eventid":"41T","beach":"Currimundi"}},{"type":"Feature","id":78,"geometry":null,"properties":{"OBJECTID":78,"globalid":"705e8f99-854b-4f86-b5d2-2e7f407eb0ea","datefound":"Tue, 10 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"ffe1c171-cb09-4c6f-983b-2ec0d2a02cda","eventid":"56T","beach":"Shelly"}},{"type":"Feature","id":79,"geometry":null,"properties":{"OBJECTID":79,"globalid":"85e1b6dd-616e-4ebf-8ce9-86ac36a4121f","datefound":"Wed, 08 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"4e0fc85f-6adc-4b3c-b7bf-f185c0a24894","eventid":"59T","beach":"Warana"}},{"type":"Feature","id":80,"geometry":null,"properties":{"OBJECTID":80,"globalid":"0a902de2-d426-4954-b0df-fb82e4aae657","datefound":"Wed, 18 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"8bc4c637-68fe-478f-9467-6cf950a75caf","eventid":"89T","beach":"Buddina"}},{"type":"Feature","id":81,"geometry":null,"properties":{"OBJECTID":81,"globalid":"74aee91d-f04b-4549-99d2-62d68f2cde2f","datefound":"Wed, 18 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"fc857d20-e42e-45fb-9343-c7c0d4496bd2","eventid":"90T","beach":"Buddina"}},{"type":"Feature","id":82,"geometry":null,"properties":{"OBJECTID":82,"globalid":"fa1f49fd-24f0-43b9-9381-ee2e83d19241","datefound":"Wed, 18 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"64fcad49-33df-471a-82af-789f03af589a","eventid":"91T","beach":"Buddina"}},{"type":"Feature","id":83,"geometry":null,"properties":{"OBJECTID":83,"globalid":"37c4fc47-7b32-4c24-ac1f-2c9796658fa6","datefound":"Wed, 18 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"0955272f-1a15-4406-a1cc-e2600c635501","eventid":"92T","beach":"Buddina"}},{"type":"Feature","id":84,"geometry":null,"properties":{"OBJECTID":84,"globalid":"84f360d2-9df0-4c3a-9beb-d6ad29e0c73c","datefound":"Wed, 18 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"1ec6b5f5-5ec4-4455-9a02-f3a70477e17d","eventid":"93T","beach":"Buddina"}},{"type":"Feature","id":85,"geometry":null,"properties":{"OBJECTID":85,"globalid":"8c5d901b-5fd0-45a5-89c8-ff021bd56aaf","datefound":"Wed, 18 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"79acab77-76a0-4b7a-a7ad-068cb922fc01","eventid":"94T","beach":"Buddina"}},{"type":"Feature","id":86,"geometry":null,"properties":{"OBJECTID":86,"globalid":"ffecb2fc-92df-4de5-86e7-bc985fbb24a6","datefound":"Thu, 19 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"4e40b9d5-e935-4ee8-830b-faad8fa2c309","eventid":"102T","beach":"Buddina"}},{"type":"Feature","id":87,"geometry":null,"properties":{"OBJECTID":87,"globalid":"044fc413-abd5-419c-881d-b1327b946480","datefound":"Thu, 19 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"615ddd10-1be8-43d7-a555-4eee45efd487","eventid":"103T","beach":"Buddina"}},{"type":"Feature","id":88,"geometry":null,"properties":{"OBJECTID":88,"globalid":"99063e43-85fd-47e8-bcdd-484a95435a1d","datefound":"Fri, 20 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"8a9a4b58-b413-4246-9b98-2372afffffd3","eventid":"104T","beach":"Buddina"}},{"type":"Feature","id":89,"geometry":null,"properties":{"OBJECTID":89,"globalid":"6ca86c89-da73-4b6d-8423-a068c91ab0e9","datefound":"Fri, 20 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"305a0e60-49a7-4bf8-a32a-bcf228316936","eventid":"105T","beach":"Buddina"}},{"type":"Feature","id":90,"geometry":null,"properties":{"OBJECTID":90,"globalid":"3ff78566-3db5-4b40-82be-f5e2c9507cd9","datefound":"Sun, 22 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"14bdb469-9a6b-4b7e-bd65-22417cc97184","eventid":"108T","beach":"Buddina"}},{"type":"Feature","id":91,"geometry":null,"properties":{"OBJECTID":91,"globalid":"7bb58684-d168-45b2-ab6f-f3e9731e3d62","datefound":"Sun, 12 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"19e76aeb-1eb2-401e-8dd5-c5ee63051a80","eventid":"198N","beach":"Wurtulla"}},{"type":"Feature","id":92,"geometry":null,"properties":{"OBJECTID":92,"globalid":"353696af-1e27-4bef-be94-9d3d4aaa254f","datefound":"Sun, 12 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"70cf3899-7a3a-4203-9f29-a87529f27494","eventid":"198N","beach":"Wurtulla"}},{"type":"Feature","id":93,"geometry":null,"properties":{"OBJECTID":93,"globalid":"2a7f3ef1-458d-4e70-bcb7-1ed8d59b492b","datefound":"Fri, 20 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"c1d19863-e5a5-47c6-9070-c29fab091da7","eventid":"107N","beach":"Buddina"}},{"type":"Feature","id":94,"geometry":null,"properties":{"OBJECTID":94,"globalid":"b341503e-7704-4e33-9173-e2eba8cc6f2f","datefound":"Sun, 22 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"97650ec1-4f95-4e78-a2bc-4e569032ed90","eventid":"109N","beach":"Shelly"}},{"type":"Feature","id":95,"geometry":null,"properties":{"OBJECTID":95,"globalid":"4161497c-26ad-4b65-b580-05933270f84e","datefound":"Sat, 21 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"7d8cfe18-5c7d-4176-8b1d-44044245ed69","eventid":"111T","beach":"Dicky"}},{"type":"Feature","id":96,"geometry":null,"properties":{"OBJECTID":96,"globalid":"e2a822cd-d160-4e0b-924a-ee8ff74335c6","datefound":"Thu, 16 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"69186f39-dff5-403e-a3b2-db1514dffcfa","eventid":"206N","beach":"Currimundi"}},{"type":"Feature","id":97,"geometry":null,"properties":{"OBJECTID":97,"globalid":"6ac5f95b-5cc3-4c2c-8c8a-0640ed48056e","datefound":"Wed, 18 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"4672814a-e374-404a-8216-dc0612acd1da","eventid":"100T","beach":"Buddina"}},{"type":"Feature","id":98,"geometry":null,"properties":{"OBJECTID":98,"globalid":"2572de2f-f548-4949-a233-5aafcc1e4636","datefound":"Wed, 18 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"f190f59e-322c-4e65-9442-eaba3d9c2197","eventid":"101T","beach":"Buddina"}},{"type":"Feature","id":99,"geometry":null,"properties":{"OBJECTID":99,"globalid":"45d4b28b-5198-4fc1-b4ab-f7903af0fb4d","datefound":"Sun, 22 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"ffab74d6-3886-454c-9123-395adf578cdb","eventid":"113T","beach":"Buddina"}},{"type":"Feature","id":100,"geometry":null,"properties":{"OBJECTID":100,"globalid":"061b1af7-3b66-41d2-a791-2308f3fab952","datefound":"Sun, 22 Dec 2024 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"e60bfedb-2ff5-435a-97aa-819e26ae736f","eventid":"114N","beach":"Buddina"}},{"type":"Feature","id":101,"geometry":null,"properties":{"OBJECTID":101,"globalid":"09d00e85-f6d0-4810-a54d-2b3ed9b9206e","datefound":"Thu, 16 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"0edd95e6-26fc-4087-8e92-c7c8cfdb3767","eventid":"207T","beach":"Kings"}},{"type":"Feature","id":102,"geometry":null,"properties":{"OBJECTID":102,"globalid":"c0f252e0-4c21-4e87-800e-a087b6577245","datefound":"Sat, 18 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"b63d675d-63b2-41b4-a98e-3f6ac0783433","eventid":"218N","beach":"Shelly"}},{"type":"Feature","id":103,"geometry":null,"properties":{"OBJECTID":103,"globalid":"62e8e105-bd02-445b-8024-f0e918eb2834","datefound":"Sun, 19 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"7b1a3398-2813-4ade-b056-7df557921544","eventid":"219N","beach":"Shelly"}},{"type":"Feature","id":104,"geometry":null,"properties":{"OBJECTID":104,"globalid":"26047556-1c64-462c-b0c5-895dea9ed831","datefound":"Sat, 25 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"f145b911-b523-40ee-9dde-566fb0c45ece","eventid":"225N","beach":"Bokarina"}},{"type":"Feature","id":105,"geometry":null,"properties":{"OBJECTID":105,"globalid":"af99e171-9e78-4d3e-8488-a97dc3955033","datefound":"Sun, 26 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"65970489-2b43-48a8-bab5-6b1f234074f6","eventid":"85N","beach":"Wurtulla"}},{"type":"Feature","id":106,"geometry":null,"properties":{"OBJECTID":106,"globalid":"d826ee1d-9fbb-4f8c-990f-4241b1c4a075","datefound":"Fri, 31 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"51dd6646-dabe-4245-9f83-55ed0b27b97c","eventid":"231N","beach":"Bribie"}},{"type":"Feature","id":107,"geometry":null,"properties":{"OBJECTID":107,"globalid":"2a339042-cf33-47eb-ae47-9ff50c5508ce","datefound":"Sat, 01 Feb 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"c47fa432-85e2-4669-ab05-3413f9c2a195","eventid":"234N","beach":"Shelly"}},{"type":"Feature","id":108,"geometry":null,"properties":{"OBJECTID":108,"globalid":"781eb714-d9de-408b-bb43-4d23bfa86169","datefound":"Wed, 18 Dec 2024 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"3a23cd48-8cc2-476f-be01-b2465193cd5b","eventid":"99T","beach":"Buddina"}},{"type":"Feature","id":109,"geometry":null,"properties":{"OBJECTID":109,"globalid":"f35f4f2b-4429-4b11-a2fe-eb318be50ae3","datefound":"Tue, 18 Feb 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"e44e3779-0a34-4e3d-ab6b-eab7e29ed393","eventid":"241N","beach":"NorthBribie"}},{"type":"Feature","id":110,"geometry":null,"properties":{"OBJECTID":110,"globalid":"db4a15d5-8a2e-44ac-8242-25e7594e5c48","datefound":"Tue, 11 Feb 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"a2a685a4-e922-4525-84db-f907e576738b","eventid":"239?","beach":"Bribie"}},{"type":"Feature","id":111,"geometry":null,"properties":{"OBJECTID":111,"globalid":"0b5a95b4-086b-4eae-bc9f-dbe219508a9d","datefound":"Thu, 06 Feb 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"fcf95c70-cd54-4cb4-8dcc-27a585f4d07c","eventid":"240N","beach":"Bribie"}},{"type":"Feature","id":112,"geometry":null,"properties":{"OBJECTID":112,"globalid":"7e3f2c91-fcac-4e0a-9876-5eb50f3016cf","datefound":"Tue, 04 Feb 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"7649b35d-3be3-4b65-896b-66c9e595992a","eventid":"235N","beach":"Bribie"}},{"type":"Feature","id":113,"geometry":null,"properties":{"OBJECTID":113,"globalid":"339edccb-a19a-4622-bd1e-a099249bc336","datefound":"Fri, 31 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"3bbbc63f-b64e-4cdc-a3ad-5e5eec0c5495","eventid":"230T","beach":"Bribie"}},{"type":"Feature","id":114,"geometry":null,"properties":{"OBJECTID":114,"globalid":"3b8c2d71-f6d0-4ab4-ae59-a7e8a02c2ad8","datefound":"Tue, 28 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"d7337750-0515-410b-b800-985742391eef","eventid":"229N","beach":"Bribie"}},{"type":"Feature","id":115,"geometry":null,"properties":{"OBJECTID":115,"globalid":"26cc7204-b86f-462a-9b95-dbd87a3eb621","datefound":"Mon, 27 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"d1778556-aaf4-4f7e-ad11-b6e895af1814","eventid":"228T","beach":"Bribie"}},{"type":"Feature","id":116,"geometry":null,"properties":{"OBJECTID":116,"globalid":"f15d7d1d-bd6b-4001-ac67-4384e7e37b3e","datefound":"Wed, 22 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"f9ec46d8-8204-42bb-bfc0-031a47e1cd2b","eventid":"223N","beach":"Bribie"}},{"type":"Feature","id":117,"geometry":null,"properties":{"OBJECTID":117,"globalid":"1b551b9b-fec2-48c7-b0df-3b46a4fc2fa4","datefound":"Mon, 27 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"669175b3-15ce-483d-ba64-b78282e0a347","eventid":"227N","beach":"Bribie"}},{"type":"Feature","id":118,"geometry":null,"properties":{"OBJECTID":118,"globalid":"97a20f8e-d704-4db6-abc2-5664c03b48d3","datefound":"Wed, 22 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"7e33af13-a81d-4481-9211-ee3ed6ddd989","eventid":"224T","beach":"Bribie"}},{"type":"Feature","id":119,"geometry":null,"properties":{"OBJECTID":119,"globalid":"ef332c42-8645-4d31-ae73-51bbce638bbb","datefound":"Wed, 22 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"c14967c7-8beb-4011-8e5f-21a6175d9735","eventid":"121N","beach":"Bribie"}},{"type":"Feature","id":120,"geometry":null,"properties":{"OBJECTID":120,"globalid":"076e99dc-41bf-41b1-b548-4732fd19afaf","datefound":"Tue, 21 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"20bc7b12-56e2-4b1a-a890-97148235d3c2","eventid":"222T","beach":"Bribie"}},{"type":"Feature","id":121,"geometry":null,"properties":{"OBJECTID":121,"globalid":"1ba93b27-523d-4e00-acff-635b763f34a9","datefound":"Tue, 21 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"eda21fd1-605b-41f5-996e-edb9acbe3af8","eventid":"221T","beach":"Bribie"}},{"type":"Feature","id":122,"geometry":null,"properties":{"OBJECTID":122,"globalid":"23d1fbbe-123f-4f1a-b156-b8cbcd56d055","datefound":"Tue, 21 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"1498e002-cd6f-4f00-8534-cb4a35fdb93c","eventid":"220N","beach":"Bribie"}},{"type":"Feature","id":123,"geometry":null,"properties":{"OBJECTID":123,"globalid":"427363dd-a055-4a4d-be08-36ca5deb374c","datefound":"Sun, 26 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"17f7c675-aad0-49b7-83d1-a6a608e29386","eventid":"226N","beach":"Buddina"}},{"type":"Feature","id":124,"geometry":null,"properties":{"OBJECTID":124,"globalid":"69428c1b-b253-4021-9e17-8b471171b947","datefound":"Sun, 19 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"09294e79-5e11-4819-9875-67f3d8aa2171","eventid":"217T","beach":"Bribie"}},{"type":"Feature","id":125,"geometry":null,"properties":{"OBJECTID":125,"globalid":"be391be1-d094-4899-ab89-cb1766168b11","datefound":"Sat, 18 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"7d471f85-3253-45fe-8e8b-061994964d8b","eventid":"216N","beach":"Bribie"}},{"type":"Feature","id":126,"geometry":null,"properties":{"OBJECTID":126,"globalid":"171d0103-9223-4434-bf27-9468d6cac918","datefound":"Wed, 08 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"31b683c8-c091-4fc2-82f2-0d43025a6f1c","eventid":"192T","beach":"Bribie"}},{"type":"Feature","id":127,"geometry":null,"properties":{"OBJECTID":127,"globalid":"a32ec6ab-84d6-421d-89dc-d01090e45fbf","datefound":"Tue, 07 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"e4579541-4092-4e32-b6d1-c87ce4f6ec06","eventid":"191N","beach":"Bribie"}},{"type":"Feature","id":128,"geometry":null,"properties":{"OBJECTID":128,"globalid":"f6137f69-1818-47f5-a3ab-ee407ccfa10d","datefound":"Tue, 07 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"99264f37-e597-46af-9552-6a744a35f4ae","eventid":"190N","beach":"Bribie"}},{"type":"Feature","id":129,"geometry":null,"properties":{"OBJECTID":129,"globalid":"4b82a755-3c23-419c-a3a5-b1cab8693563","datefound":"Mon, 06 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"e66feb20-060c-42af-adb7-7409a5cf7256","eventid":"188N","beach":"Bribie"}},{"type":"Feature","id":130,"geometry":null,"properties":{"OBJECTID":130,"globalid":"62ba315b-b959-47e2-80f4-f9b310a41d05","datefound":"Sun, 05 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"3a096c97-85a5-479a-982c-8404622c9a00","eventid":"187T","beach":"Bribie"}},{"type":"Feature","id":131,"geometry":null,"properties":{"OBJECTID":131,"globalid":"1eb6cfc8-f058-4421-bef2-13f3625ae76e","datefound":"Sun, 05 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"b08ab0a1-6934-4285-9f68-2be985ebdc26","eventid":"186N","beach":"Bribie"}},{"type":"Feature","id":132,"geometry":null,"properties":{"OBJECTID":132,"globalid":"02d826b9-c626-4431-ab83-c3a071033d15","datefound":"Sun, 05 Jan 2025 02:00:00 GMT","laidactivity":"nolay","turtlespecies":"loggerhead","lgid1":"b77ab829-9724-4f9f-8338-cdee06f5db60","eventid":"185T","beach":"Bribie"}},{"type":"Feature","id":133,"geometry":null,"properties":{"OBJECTID":133,"globalid":"f7261348-6973-4d0c-8ace-709eb4761852","datefound":"Sun, 05 Jan 2025 02:00:00 GMT","laidactivity":"laid","turtlespecies":"loggerhead","lgid1":"992e4fda-3208-4f32-aa14-f4866ef342bf","eventid":"184N","beach":"Bribie"}}]}
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.126, -26.752]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "globalid": "102ff62a-1c06-493a-bbd4-d2a3430a0d34",
+                "datefound": "Fri, 15 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "green",
+                "lgid1": "ea687a61-0eb2-4710-a56b-79770f4d30b1",
+                "eventid": "2N",
+                "beach": "Bokarina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "globalid": "5622192d-ae35-4e27-b679-0068bedef978",
+                "datefound": "Fri, 15 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laiddist",
+                "turtlespecies": "loggerhead",
+                "lgid1": "e9d70bd4-3d62-4c77-bbed-e597a776e5dd",
+                "eventid": "3?",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.083, -27.065]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "globalid": "dc88a409-1e02-41d6-9200-c05476766b97",
+                "datefound": "Mon, 18 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "86b2a4f7-a8a1-4cd6-8731-074f778705b9",
+                "eventid": "6N",
+                "beach": "NorthBribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.137, -26.786]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "globalid": "08552c3c-7a21-4844-a416-6ab778e1bad0",
+                "datefound": "Tue, 19 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "544fa1ad-8d0f-48c5-a753-3ed8321cad4e",
+                "eventid": "7N",
+                "beach": "Warana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.126, -26.752]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "globalid": "619ac05b-e46d-4b51-9679-110f27bd1faf",
+                "datefound": "Wed, 20 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "fbc6d4c5-8052-4a29-a181-0f332fe2f405",
+                "eventid": "9N",
+                "beach": "Bokarina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "globalid": "068c64e1-32a0-4e6e-8c1b-8d07e9805532",
+                "datefound": "Wed, 20 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "e9df65e6-6bbb-4ccd-ac36-91d29b057fbf",
+                "eventid": "10N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "globalid": "d73a5fe0-acb1-4fc3-bcf5-fb6249d5896a",
+                "datefound": "Wed, 20 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "4d2b420e-3e3e-443b-805b-4b89620bdddc",
+                "eventid": "28T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "globalid": "0ca063ad-4864-4d0d-a885-9ac227c00b0b",
+                "datefound": "Sat, 23 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "1278e19f-a63f-4a21-841d-0cec6036ebf4",
+                "eventid": "17T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 9,
+                "globalid": "09b5d84a-8b35-4f5f-b196-5cb98eb7fbef",
+                "datefound": "Sat, 23 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "91c9d23c-04da-4fc8-b619-8a591f33c40a",
+                "eventid": "18T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 10,
+                "globalid": "4f024cd8-6378-48a8-9fe2-ce2806934635",
+                "datefound": "Sat, 23 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "2e0fe9f9-cdcf-47c5-b448-6b2198a58478",
+                "eventid": "21N",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 11,
+                "globalid": "ecd6bc83-828d-4a98-a8f9-2504de04d8e4",
+                "datefound": "Thu, 21 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "fd11cf0b-c5d0-4cd4-9c4b-ae874e31e150",
+                "eventid": "11N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 12,
+                "globalid": "2f986416-e949-46f6-9f4c-ee2b6b845ffc",
+                "datefound": "Sun, 24 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "e979aac7-cf19-4003-845a-b7205c33f9fa",
+                "eventid": "24N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 13,
+                "globalid": "8cbc54df-db3e-4559-b466-fa19e20c3c67",
+                "datefound": "Wed, 20 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "e0c6fc2f-ee89-46b5-ae47-3666af17e535",
+                "eventid": "8N",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 14,
+                "globalid": "0c465d26-27e0-433b-8980-3f43a91187a1",
+                "datefound": "Sat, 23 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7f843767-b4fc-4f0f-b23c-b907f8560ef0",
+                "eventid": "16T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 15,
+                "globalid": "b1e36193-7b11-4d84-bac1-8169b17bc3d0",
+                "datefound": "Sun, 17 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "2435b95a-1b2e-428a-b8c4-862177f646ac",
+                "eventid": "5N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 16,
+                "globalid": "5f7f0d76-2eb1-4857-b4b7-bcb64bfa709b",
+                "datefound": "Wed, 27 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "6121ffcb-5e0b-4168-9f3c-10c0d862db61",
+                "eventid": "27T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.137, -26.786]
+            },
+            "properties": {
+                "OBJECTID": 17,
+                "globalid": "c247e2ab-0a35-4dfe-af8b-d2d41928d645",
+                "datefound": "Sun, 01 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7eda8fc8-7065-400d-a817-3c19ed558123",
+                "eventid": "34N",
+                "beach": "Warana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 18,
+                "globalid": "487a1874-149f-4711-9170-0e609e46163f",
+                "datefound": "Fri, 22 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "9a806e45-5028-4451-b104-b5bb0ff053a2",
+                "eventid": "12T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 19,
+                "globalid": "d4fa1a70-981d-45c4-ab92-7b8f570c230e",
+                "datefound": "Fri, 22 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "722e0b2e-0847-4a00-b2cb-742c877bd478",
+                "eventid": "13T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 20,
+                "globalid": "d0a1b64b-203a-45e4-b863-ba08a74a1513",
+                "datefound": "Fri, 22 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "4bd01204-e351-41fa-b77d-b6aa809e81e2",
+                "eventid": "14T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 21,
+                "globalid": "bc5a6f45-9a8b-458a-8b82-392dc9bd8f65",
+                "datefound": "Fri, 22 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "green",
+                "lgid1": "b6b83e01-d611-4398-b1ac-65a457feb661",
+                "eventid": "15T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 22,
+                "globalid": "b90a97e7-d7ed-4e06-9f4f-dfcb360ec7f8",
+                "datefound": "Sat, 23 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "c1031822-7df6-4568-873f-632b4c730b2b",
+                "eventid": "19T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 23,
+                "globalid": "b368eb7b-d965-4e14-b990-62447bd3d86d",
+                "datefound": "Sat, 23 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "5660b26d-a183-4b55-b3f6-4025541e0eb6",
+                "eventid": "20T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 24,
+                "globalid": "9875944f-20b0-41ac-9855-68855836040e",
+                "datefound": "Mon, 25 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "green",
+                "lgid1": "665d087a-74b0-464d-9655-ccc17874d8b6",
+                "eventid": "23T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 25,
+                "globalid": "aac78cc2-106f-474a-bb8d-069deff4ffcc",
+                "datefound": "Mon, 25 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "2f9deda1-6d95-4bf3-99a1-058905ea492a",
+                "eventid": "25N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.126, -26.752]
+            },
+            "properties": {
+                "OBJECTID": 26,
+                "globalid": "a5daaaa6-5b14-4c4e-a3d7-bdd90db5b063",
+                "datefound": "Tue, 03 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7f91a967-5de4-4330-adfa-e1d6e23fa696",
+                "eventid": "39T",
+                "beach": "Bokarina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 27,
+                "globalid": "c605fbbd-0759-4b9b-b045-a5b162088322",
+                "datefound": "Thu, 28 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "a3df0be0-a78a-4c5a-9af7-8f3ba7cb4b48",
+                "eventid": "32N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 28,
+                "globalid": "8adde494-4ce8-4228-8bd3-08091cabc5f5",
+                "datefound": "Tue, 10 Dec 2024 14:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "f322336c-2d89-46df-95ec-ea563bfd5b01",
+                "eventid": "1N",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 29,
+                "globalid": "8403f8d6-fa28-4df0-8612-50749ffae51c",
+                "datefound": "Sun, 24 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "3a5a50a9-4e11-416d-b42f-2f1e5443832a",
+                "eventid": "22N",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 30,
+                "globalid": "d5cce47f-96ef-40a8-90fd-7909482c40c6",
+                "datefound": "Wed, 27 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "05ba5316-be94-44d8-83d0-1b3accef98a9",
+                "eventid": "30T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 31,
+                "globalid": "6a6023f1-f817-4398-9b40-753adcd4d51a",
+                "datefound": "Wed, 27 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7927ca48-9a1f-4920-b53e-1a7521179b25",
+                "eventid": "31T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 32,
+                "globalid": "1cad79ab-3ffb-4f73-b932-1cd8b985b08a",
+                "datefound": "Thu, 28 Nov 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "674eb310-cccc-43d5-a1a8-11c974b852fc",
+                "eventid": "33N",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 33,
+                "globalid": "f3895862-cc23-4c7d-9ede-64f5caae3f2b",
+                "datefound": "Wed, 04 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "13da1fbc-e520-42d8-b35c-e29371613956",
+                "eventid": "40N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.083, -27.065]
+            },
+            "properties": {
+                "OBJECTID": 34,
+                "globalid": "7e81ec2a-043a-4485-8a6a-d19e4ceee75f",
+                "datefound": "Tue, 03 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "0f2ab0f7-f1d8-40f4-8c68-9822ed51b485",
+                "eventid": "37N",
+                "beach": "NorthBribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 35,
+                "globalid": "93cc2b15-2816-4d2c-aab2-ec5b6eb96fad",
+                "datefound": "Thu, 05 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "13c938bb-d4df-4ab7-87ad-edfdb349b54a",
+                "eventid": "42N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.126, -26.752]
+            },
+            "properties": {
+                "OBJECTID": 36,
+                "globalid": "ce8b81e7-0fa1-4904-97fa-772ffa6780e1",
+                "datefound": "Fri, 06 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "d57e16b0-85c1-4ec5-99ff-2481b87d5366",
+                "eventid": "43N",
+                "beach": "Bokarina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.126, -26.752]
+            },
+            "properties": {
+                "OBJECTID": 37,
+                "globalid": "ac4386d7-9944-4c48-82d2-0699e61b1e50",
+                "datefound": "Fri, 06 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "40c6cdc4-8261-4aef-9497-f10e189508ba",
+                "eventid": "61T",
+                "beach": "Bokarina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.129, -26.667]
+            },
+            "properties": {
+                "OBJECTID": 38,
+                "globalid": "db99c43a-2787-4961-99ec-22a1742aacb5",
+                "datefound": "Fri, 06 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "6a95e0fc-e7f9-41f3-a255-813a9f190dbd",
+                "eventid": "44N",
+                "beach": "Dicky"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 39,
+                "globalid": "ea251536-e5d5-41d6-81f6-723bf06d1195",
+                "datefound": "Sat, 07 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "200d53fd-06d9-412d-8dd7-9842b6337a37",
+                "eventid": "48T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.137, -26.786]
+            },
+            "properties": {
+                "OBJECTID": 40,
+                "globalid": "9b7adff7-73a8-4db3-ae8a-a8c272ab0ebf",
+                "datefound": "Sun, 08 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "638e8e00-7134-47b3-ba26-65b399a269f1",
+                "eventid": "49N",
+                "beach": "Warana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.128, -26.681]
+            },
+            "properties": {
+                "OBJECTID": 41,
+                "globalid": "c5e10496-4078-4f65-b2f5-b7e075b022df",
+                "datefound": "Sun, 08 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "b64c083a-8743-4237-ad0a-8005c915372b",
+                "eventid": "51N",
+                "beach": "Buddina,Mooloolaba"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 42,
+                "globalid": "12137d8d-e40d-41cc-a0f2-9764eab4aa8a",
+                "datefound": "Mon, 09 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "09eae4a4-9783-4ac9-b15f-d950d6f59071",
+                "eventid": "52N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 43,
+                "globalid": "ee255761-990c-4913-bca9-6df8b6c83b9d",
+                "datefound": "Tue, 10 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "a1a1013e-8a56-4f41-9efb-d1df2f530439",
+                "eventid": "55N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 44,
+                "globalid": "2f119b14-d8dc-4b35-95f4-94ee9fb50a69",
+                "datefound": "Thu, 12 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "30b22ea3-f8c4-4ce8-be95-86a54224ab4c",
+                "eventid": "66N",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 45,
+                "globalid": "2a285b67-71ee-4895-9010-e9ba65aa0643",
+                "datefound": "Sun, 15 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "c6b72e7b-cb11-4f8f-8d8b-f8e3fe71c22f",
+                "eventid": "76T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.083, -27.065]
+            },
+            "properties": {
+                "OBJECTID": 46,
+                "globalid": "5fa44582-b350-4685-96a3-6a586f42aa81",
+                "datefound": "Sun, 17 Nov 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "a9e70351-2e94-4540-9595-5c52b56eb807",
+                "eventid": "4T",
+                "beach": "NorthBribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.140, -26.669]
+            },
+            "properties": {
+                "OBJECTID": 47,
+                "globalid": "114e774c-759b-4950-affc-55d0eb6d98e4",
+                "datefound": "Tue, 17 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": null,
+                "lgid1": "9d58462e-9e9c-4be1-ab11-1f5299072d76",
+                "eventid": "87T",
+                "beach": "Kings"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.754]
+            },
+            "properties": {
+                "OBJECTID": 48,
+                "globalid": "3267e2f4-4364-462b-9f9a-c2cb2bcfc153",
+                "datefound": "Sun, 15 Dec 2024 14:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "6ce4ee9f-1b7b-4d47-8128-5df936add0e6",
+                "eventid": "85T",
+                "beach": "Wurtulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 49,
+                "globalid": "589fa73a-5622-4bb3-b4cf-e6168d186261",
+                "datefound": "Thu, 12 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "2a8eb94f-79a3-44ff-aadc-2b4706d0db89",
+                "eventid": "64T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 50,
+                "globalid": "704ce2a8-5576-499d-9ecc-fdde87a5dfd1",
+                "datefound": "Thu, 12 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "20801f2e-d19b-493e-8a79-4ed9fa176103",
+                "eventid": "65T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 51,
+                "globalid": "9ff9a727-e833-41b3-966b-5d41677e7cba",
+                "datefound": "Fri, 13 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "5ccc53cb-1697-4838-bafc-a19c59a9b6f9",
+                "eventid": "69T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 52,
+                "globalid": "22f2bcba-6940-4cc5-9d93-9e8992b3583d",
+                "datefound": "Fri, 13 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "2228ce25-f0a7-42b1-b0db-255b60fa34a7",
+                "eventid": "70T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 53,
+                "globalid": "c9ce1949-b079-4ecd-be30-7e8ebbf4551f",
+                "datefound": "Sat, 14 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "732df3fe-b08c-4676-b14f-5f32837a295d",
+                "eventid": "72T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 54,
+                "globalid": "7f963e2a-c05a-48d5-a662-671979431bed",
+                "datefound": "Sat, 14 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "d5a9a8b6-15e9-4d24-8951-6f4927a3500b",
+                "eventid": "73T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 55,
+                "globalid": "c1c24d11-4ea1-4313-9883-58849cca481d",
+                "datefound": "Sat, 14 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "26cea7d0-6e7e-410f-b273-df310b5dd716",
+                "eventid": "74T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 56,
+                "globalid": "0798ca49-c262-4482-b5cc-020215c04b74",
+                "datefound": "Sat, 14 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "df783a0b-8320-4489-8592-3d296044e439",
+                "eventid": "75T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 57,
+                "globalid": "683850bf-cc2f-4da3-9704-e280f1f958fc",
+                "datefound": "Fri, 13 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "707a3385-dc32-4fd5-8c5d-e0ed48905c7c",
+                "eventid": "71T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 58,
+                "globalid": "db090134-528f-4e0e-b7c5-512b52a4f76b",
+                "datefound": "Sun, 15 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "2e43da0b-1c97-4832-93ad-fd28e3b99a3e",
+                "eventid": "78T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 59,
+                "globalid": "ae355719-bf24-40f9-a50c-b2806fd9fb17",
+                "datefound": "Mon, 16 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "753a20d7-0abd-4b45-9991-893bd2df592e",
+                "eventid": "79T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 60,
+                "globalid": "8d2c64f7-55d3-4ff0-94ff-9dea130336d5",
+                "datefound": "Mon, 16 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "6c815435-d777-4575-b100-d15435dab614",
+                "eventid": "80T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 61,
+                "globalid": "e7199c57-86b7-440d-832a-38abe2fd3aa6",
+                "datefound": "Mon, 16 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "17e8486f-f2ab-46ee-ae9b-d61a6d0fe962",
+                "eventid": "81T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 62,
+                "globalid": "555e669b-1fd0-4100-8ed9-022c695968a2",
+                "datefound": "Mon, 16 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "1995ca90-0083-4e2b-96d6-4cbe76ca6521",
+                "eventid": "82T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 63,
+                "globalid": "4c35ea37-5d4f-45aa-a31f-0e274fd52dd6",
+                "datefound": "Tue, 17 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "5e00d226-5842-4966-bbb5-e23ff4c2b798",
+                "eventid": "86T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 64,
+                "globalid": "b9bf38d8-e932-457c-9016-b7e69978875d",
+                "datefound": "Mon, 16 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "d063af66-44c1-46a9-a01c-70a7bcf5b445",
+                "eventid": "88N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.126, -26.752]
+            },
+            "properties": {
+                "OBJECTID": 65,
+                "globalid": "64344291-b1e0-4165-9aeb-bd2ce71ea844",
+                "datefound": "Sat, 21 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "green",
+                "lgid1": "a86ac3a4-fc97-4596-9e08-f231b7c9c19b",
+                "eventid": "106N",
+                "beach": "Bokarina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 66,
+                "globalid": "5f382ac1-1d27-4cf5-a4bb-5eeb4a92e31c",
+                "datefound": "Mon, 23 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7fe3099c-0b4f-4460-a302-e39ebeaa6c2e",
+                "eventid": "112T",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.1222, -26.7658]
+            },
+            "properties": {
+                "OBJECTID": 67,
+                "globalid": "8b5fb049-2765-4fcb-a7b2-18b2a5eb48a2",
+                "datefound": "Sun, 22 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "ee84744e-e71c-4ec8-9133-db232e774be5",
+                "eventid": "110N",
+                "beach": "Currimundi"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.126, -26.752]
+            },
+            "properties": {
+                "OBJECTID": 68,
+                "globalid": "07582414-be21-4e39-988a-717dc98ed152",
+                "datefound": "Tue, 24 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "8e786c12-cdf5-4be7-b55f-2f8addee205a",
+                "eventid": "116T",
+                "beach": "Bokarina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 69,
+                "globalid": "fd699aa0-7908-4a05-bb3c-921a7e708168",
+                "datefound": "Mon, 23 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "4ee1407d-9536-485a-8c54-241857832fbc",
+                "eventid": "115N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.754]
+            },
+            "properties": {
+                "OBJECTID": 70,
+                "globalid": "cbcd5214-32d8-4db7-ac01-ce2c075dd6a7",
+                "datefound": "Tue, 31 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "ba161d06-a0c5-4906-ad0d-035fda1e49b7",
+                "eventid": "119N",
+                "beach": "Wurtulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.129, -26.667]
+            },
+            "properties": {
+                "OBJECTID": 71,
+                "globalid": "1bc39e35-c739-45e5-ab0a-b72fd68b5bd4",
+                "datefound": "Sat, 28 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7e33372c-e8dc-4c59-b991-4e4ca5880565",
+                "eventid": "237T",
+                "beach": "Dicky"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 72,
+                "globalid": "9a09a3a9-c524-4a0d-882e-0247157e96ff",
+                "datefound": "Thu, 02 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "bfdcd680-cb3c-4de0-99e1-412020e3f734",
+                "eventid": "122N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 73,
+                "globalid": "50fad97a-b053-433b-b052-363cb2bfe08a",
+                "datefound": "Thu, 02 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "0252fd7c-4ecc-47bf-8c73-e253ae3192da",
+                "eventid": "123N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 74,
+                "globalid": "a544bb4a-d89a-43f5-9718-5fad43aebfe6",
+                "datefound": "Sat, 04 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "d4ad049a-cab2-48bb-b906-8da74f967c95",
+                "eventid": "133N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 75,
+                "globalid": "5a3e5897-bc31-4c86-8ac0-5884218c72a6",
+                "datefound": "Sat, 04 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "908adc32-78af-42d7-a487-b79e885d2456",
+                "eventid": "88N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 76,
+                "globalid": "338aa690-acea-45f2-b593-3a96719dfc5d",
+                "datefound": "Mon, 06 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7309af1c-3df3-4d6e-a604-ad060e8cd1be",
+                "eventid": "135N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.1222, -26.7658]
+            },
+            "properties": {
+                "OBJECTID": 77,
+                "globalid": "ae11dea1-efb3-4ee4-955b-adc29f6b2c06",
+                "datefound": "Thu, 05 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "e12f0847-1e7d-420b-ac5d-c7a6484e1e53",
+                "eventid": "41T",
+                "beach": "Currimundi"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 78,
+                "globalid": "705e8f99-854b-4f86-b5d2-2e7f407eb0ea",
+                "datefound": "Tue, 10 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "ffe1c171-cb09-4c6f-983b-2ec0d2a02cda",
+                "eventid": "56T",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.137, -26.786]
+            },
+            "properties": {
+                "OBJECTID": 79,
+                "globalid": "85e1b6dd-616e-4ebf-8ce9-86ac36a4121f",
+                "datefound": "Wed, 08 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "4e0fc85f-6adc-4b3c-b7bf-f185c0a24894",
+                "eventid": "59T",
+                "beach": "Warana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 80,
+                "globalid": "0a902de2-d426-4954-b0df-fb82e4aae657",
+                "datefound": "Wed, 18 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "8bc4c637-68fe-478f-9467-6cf950a75caf",
+                "eventid": "89T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 81,
+                "globalid": "74aee91d-f04b-4549-99d2-62d68f2cde2f",
+                "datefound": "Wed, 18 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "fc857d20-e42e-45fb-9343-c7c0d4496bd2",
+                "eventid": "90T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 82,
+                "globalid": "fa1f49fd-24f0-43b9-9381-ee2e83d19241",
+                "datefound": "Wed, 18 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "64fcad49-33df-471a-82af-789f03af589a",
+                "eventid": "91T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 83,
+                "globalid": "37c4fc47-7b32-4c24-ac1f-2c9796658fa6",
+                "datefound": "Wed, 18 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "0955272f-1a15-4406-a1cc-e2600c635501",
+                "eventid": "92T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 84,
+                "globalid": "84f360d2-9df0-4c3a-9beb-d6ad29e0c73c",
+                "datefound": "Wed, 18 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "1ec6b5f5-5ec4-4455-9a02-f3a70477e17d",
+                "eventid": "93T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 85,
+                "globalid": "8c5d901b-5fd0-45a5-89c8-ff021bd56aaf",
+                "datefound": "Wed, 18 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "79acab77-76a0-4b7a-a7ad-068cb922fc01",
+                "eventid": "94T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 86,
+                "globalid": "ffecb2fc-92df-4de5-86e7-bc985fbb24a6",
+                "datefound": "Thu, 19 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "4e40b9d5-e935-4ee8-830b-faad8fa2c309",
+                "eventid": "102T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 87,
+                "globalid": "044fc413-abd5-419c-881d-b1327b946480",
+                "datefound": "Thu, 19 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "615ddd10-1be8-43d7-a555-4eee45efd487",
+                "eventid": "103T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 88,
+                "globalid": "99063e43-85fd-47e8-bcdd-484a95435a1d",
+                "datefound": "Fri, 20 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "8a9a4b58-b413-4246-9b98-2372afffffd3",
+                "eventid": "104T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 89,
+                "globalid": "6ca86c89-da73-4b6d-8423-a068c91ab0e9",
+                "datefound": "Fri, 20 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "305a0e60-49a7-4bf8-a32a-bcf228316936",
+                "eventid": "105T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 90,
+                "globalid": "3ff78566-3db5-4b40-82be-f5e2c9507cd9",
+                "datefound": "Sun, 22 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "14bdb469-9a6b-4b7e-bd65-22417cc97184",
+                "eventid": "108T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.754]
+            },
+            "properties": {
+                "OBJECTID": 91,
+                "globalid": "7bb58684-d168-45b2-ab6f-f3e9731e3d62",
+                "datefound": "Sun, 12 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "19e76aeb-1eb2-401e-8dd5-c5ee63051a80",
+                "eventid": "198N",
+                "beach": "Wurtulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.754]
+            },
+            "properties": {
+                "OBJECTID": 92,
+                "globalid": "353696af-1e27-4bef-be94-9d3d4aaa254f",
+                "datefound": "Sun, 12 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "70cf3899-7a3a-4203-9f29-a87529f27494",
+                "eventid": "198N",
+                "beach": "Wurtulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 93,
+                "globalid": "2a7f3ef1-458d-4e70-bcb7-1ed8d59b492b",
+                "datefound": "Fri, 20 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "c1d19863-e5a5-47c6-9070-c29fab091da7",
+                "eventid": "107N",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 94,
+                "globalid": "b341503e-7704-4e33-9173-e2eba8cc6f2f",
+                "datefound": "Sun, 22 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "97650ec1-4f95-4e78-a2bc-4e569032ed90",
+                "eventid": "109N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.129, -26.667]
+            },
+            "properties": {
+                "OBJECTID": 95,
+                "globalid": "4161497c-26ad-4b65-b580-05933270f84e",
+                "datefound": "Sat, 21 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7d8cfe18-5c7d-4176-8b1d-44044245ed69",
+                "eventid": "111T",
+                "beach": "Dicky"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.1222, -26.7658]
+            },
+            "properties": {
+                "OBJECTID": 96,
+                "globalid": "e2a822cd-d160-4e0b-924a-ee8ff74335c6",
+                "datefound": "Thu, 16 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "69186f39-dff5-403e-a3b2-db1514dffcfa",
+                "eventid": "206N",
+                "beach": "Currimundi"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 97,
+                "globalid": "6ac5f95b-5cc3-4c2c-8c8a-0640ed48056e",
+                "datefound": "Wed, 18 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "4672814a-e374-404a-8216-dc0612acd1da",
+                "eventid": "100T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 98,
+                "globalid": "2572de2f-f548-4949-a233-5aafcc1e4636",
+                "datefound": "Wed, 18 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "f190f59e-322c-4e65-9442-eaba3d9c2197",
+                "eventid": "101T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 99,
+                "globalid": "45d4b28b-5198-4fc1-b4ab-f7903af0fb4d",
+                "datefound": "Sun, 22 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "ffab74d6-3886-454c-9123-395adf578cdb",
+                "eventid": "113T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 100,
+                "globalid": "061b1af7-3b66-41d2-a791-2308f3fab952",
+                "datefound": "Sun, 22 Dec 2024 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "e60bfedb-2ff5-435a-97aa-819e26ae736f",
+                "eventid": "114N",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.140, -26.669]
+            },
+            "properties": {
+                "OBJECTID": 101,
+                "globalid": "09d00e85-f6d0-4810-a54d-2b3ed9b9206e",
+                "datefound": "Thu, 16 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "0edd95e6-26fc-4087-8e92-c7c8cfdb3767",
+                "eventid": "207T",
+                "beach": "Kings"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 102,
+                "globalid": "c0f252e0-4c21-4e87-800e-a087b6577245",
+                "datefound": "Sat, 18 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "b63d675d-63b2-41b4-a98e-3f6ac0783433",
+                "eventid": "218N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 103,
+                "globalid": "62e8e105-bd02-445b-8024-f0e918eb2834",
+                "datefound": "Sun, 19 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7b1a3398-2813-4ade-b056-7df557921544",
+                "eventid": "219N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.126, -26.752]
+            },
+            "properties": {
+                "OBJECTID": 104,
+                "globalid": "26047556-1c64-462c-b0c5-895dea9ed831",
+                "datefound": "Sat, 25 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "f145b911-b523-40ee-9dde-566fb0c45ece",
+                "eventid": "225N",
+                "beach": "Bokarina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.754]
+            },
+            "properties": {
+                "OBJECTID": 105,
+                "globalid": "af99e171-9e78-4d3e-8488-a97dc3955033",
+                "datefound": "Sun, 26 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "65970489-2b43-48a8-bab5-6b1f234074f6",
+                "eventid": "85N",
+                "beach": "Wurtulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 106,
+                "globalid": "d826ee1d-9fbb-4f8c-990f-4241b1c4a075",
+                "datefound": "Fri, 31 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "51dd6646-dabe-4245-9f83-55ed0b27b97c",
+                "eventid": "231N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.124, -26.800]
+            },
+            "properties": {
+                "OBJECTID": 107,
+                "globalid": "2a339042-cf33-47eb-ae47-9ff50c5508ce",
+                "datefound": "Sat, 01 Feb 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "c47fa432-85e2-4669-ab05-3413f9c2a195",
+                "eventid": "234N",
+                "beach": "Shelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 108,
+                "globalid": "781eb714-d9de-408b-bb43-4d23bfa86169",
+                "datefound": "Wed, 18 Dec 2024 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "3a23cd48-8cc2-476f-be01-b2465193cd5b",
+                "eventid": "99T",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.083, -27.065]
+            },
+            "properties": {
+                "OBJECTID": 109,
+                "globalid": "f35f4f2b-4429-4b11-a2fe-eb318be50ae3",
+                "datefound": "Tue, 18 Feb 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "e44e3779-0a34-4e3d-ab6b-eab7e29ed393",
+                "eventid": "241N",
+                "beach": "NorthBribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 110,
+                "globalid": "db4a15d5-8a2e-44ac-8242-25e7594e5c48",
+                "datefound": "Tue, 11 Feb 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "a2a685a4-e922-4525-84db-f907e576738b",
+                "eventid": "239?",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 111,
+                "globalid": "0b5a95b4-086b-4eae-bc9f-dbe219508a9d",
+                "datefound": "Thu, 06 Feb 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "fcf95c70-cd54-4cb4-8dcc-27a585f4d07c",
+                "eventid": "240N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 112,
+                "globalid": "7e3f2c91-fcac-4e0a-9876-5eb50f3016cf",
+                "datefound": "Tue, 04 Feb 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7649b35d-3be3-4b65-896b-66c9e595992a",
+                "eventid": "235N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 113,
+                "globalid": "339edccb-a19a-4622-bd1e-a099249bc336",
+                "datefound": "Fri, 31 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "3bbbc63f-b64e-4cdc-a3ad-5e5eec0c5495",
+                "eventid": "230T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 114,
+                "globalid": "3b8c2d71-f6d0-4ab4-ae59-a7e8a02c2ad8",
+                "datefound": "Tue, 28 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "d7337750-0515-410b-b800-985742391eef",
+                "eventid": "229N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 115,
+                "globalid": "26cc7204-b86f-462a-9b95-dbd87a3eb621",
+                "datefound": "Mon, 27 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "d1778556-aaf4-4f7e-ad11-b6e895af1814",
+                "eventid": "228T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 116,
+                "globalid": "f15d7d1d-bd6b-4001-ac67-4384e7e37b3e",
+                "datefound": "Wed, 22 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "f9ec46d8-8204-42bb-bfc0-031a47e1cd2b",
+                "eventid": "223N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 117,
+                "globalid": "1b551b9b-fec2-48c7-b0df-3b46a4fc2fa4",
+                "datefound": "Mon, 27 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "669175b3-15ce-483d-ba64-b78282e0a347",
+                "eventid": "227N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 118,
+                "globalid": "97a20f8e-d704-4db6-abc2-5664c03b48d3",
+                "datefound": "Wed, 22 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7e33af13-a81d-4481-9211-ee3ed6ddd989",
+                "eventid": "224T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 119,
+                "globalid": "ef332c42-8645-4d31-ae73-51bbce638bbb",
+                "datefound": "Wed, 22 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "c14967c7-8beb-4011-8e5f-21a6175d9735",
+                "eventid": "121N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 120,
+                "globalid": "076e99dc-41bf-41b1-b548-4732fd19afaf",
+                "datefound": "Tue, 21 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "20bc7b12-56e2-4b1a-a890-97148235d3c2",
+                "eventid": "222T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 121,
+                "globalid": "1ba93b27-523d-4e00-acff-635b763f34a9",
+                "datefound": "Tue, 21 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "eda21fd1-605b-41f5-996e-edb9acbe3af8",
+                "eventid": "221T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 122,
+                "globalid": "23d1fbbe-123f-4f1a-b156-b8cbcd56d055",
+                "datefound": "Tue, 21 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "1498e002-cd6f-4f00-8534-cb4a35fdb93c",
+                "eventid": "220N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.139, -26.812]
+            },
+            "properties": {
+                "OBJECTID": 123,
+                "globalid": "427363dd-a055-4a4d-be08-36ca5deb374c",
+                "datefound": "Sun, 26 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "17f7c675-aad0-49b7-83d1-a6a608e29386",
+                "eventid": "226N",
+                "beach": "Buddina"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 124,
+                "globalid": "69428c1b-b253-4021-9e17-8b471171b947",
+                "datefound": "Sun, 19 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "09294e79-5e11-4819-9875-67f3d8aa2171",
+                "eventid": "217T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 125,
+                "globalid": "be391be1-d094-4899-ab89-cb1766168b11",
+                "datefound": "Sat, 18 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "7d471f85-3253-45fe-8e8b-061994964d8b",
+                "eventid": "216N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 126,
+                "globalid": "171d0103-9223-4434-bf27-9468d6cac918",
+                "datefound": "Wed, 08 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "31b683c8-c091-4fc2-82f2-0d43025a6f1c",
+                "eventid": "192T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 127,
+                "globalid": "a32ec6ab-84d6-421d-89dc-d01090e45fbf",
+                "datefound": "Tue, 07 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "e4579541-4092-4e32-b6d1-c87ce4f6ec06",
+                "eventid": "191N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 128,
+                "globalid": "f6137f69-1818-47f5-a3ab-ee407ccfa10d",
+                "datefound": "Tue, 07 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "99264f37-e597-46af-9552-6a744a35f4ae",
+                "eventid": "190N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 129,
+                "globalid": "4b82a755-3c23-419c-a3a5-b1cab8693563",
+                "datefound": "Mon, 06 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "e66feb20-060c-42af-adb7-7409a5cf7256",
+                "eventid": "188N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 130,
+                "globalid": "62ba315b-b959-47e2-80f4-f9b310a41d05",
+                "datefound": "Sun, 05 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "3a096c97-85a5-479a-982c-8404622c9a00",
+                "eventid": "187T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 131,
+                "globalid": "1eb6cfc8-f058-4421-bef2-13f3625ae76e",
+                "datefound": "Sun, 05 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "b08ab0a1-6934-4285-9f68-2be985ebdc26",
+                "eventid": "186N",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 132,
+                "globalid": "02d826b9-c626-4431-ab83-c3a071033d15",
+                "datefound": "Sun, 05 Jan 2025 02:00:00 GMT",
+                "laidactivity": "nolay",
+                "turtlespecies": "loggerhead",
+                "lgid1": "b77ab829-9724-4f9f-8338-cdee06f5db60",
+                "eventid": "185T",
+                "beach": "Bribie"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.142, -27.063]
+            },
+            "properties": {
+                "OBJECTID": 133,
+                "globalid": "f7261348-6973-4d0c-8ace-709eb4761852",
+                "datefound": "Sun, 05 Jan 2025 02:00:00 GMT",
+                "laidactivity": "laid",
+                "turtlespecies": "loggerhead",
+                "lgid1": "992e4fda-3208-4f32-aa14-f4866ef342bf",
+                "eventid": "184N",
+                "beach": "Bribie"
+            }
+        }
+    ]
+}
