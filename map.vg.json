@@ -7,14 +7,14 @@
   "layer": [
     {
     "data": {
-        "url": "australia.topojson",
+        "url": "https://github.com/summ0001/FIT3179/blob/main/australia.topojson",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
     },
     "mark": {"type": "geoshape", "fill": "lightgrey", "stroke": "white"}
     },
     {
       "data": {
-        "url": "turtles-exploring-data-tracking-turtle-movements_montebellos-green-turtle.csv",
+        "url": "https://github.com/summ0001/FIT3179/blob/main/turtles-exploring-data-tracking-turtle-movements_montebellos-green-turtle.csv",
         "format": {"type": "csv"}
       },
       "mark": {"type": "circle", "tooltip": {"content": "data"}},
@@ -27,7 +27,7 @@
     },
     {
       "data": {
-        "url": "turtles-exploring-data-tracking-turtle-movements_cape-domett.csv",
+        "url": "https://github.com/summ0001/FIT3179/blob/main/turtles-exploring-data-tracking-turtle-movements_cape-domett.csv",
         "format": {"type": "csv"}
       },
       "mark": {"type": "circle", "tooltip": {"content": "data"}},
@@ -40,7 +40,7 @@
     },
     {
       "data": {
-        "url": "turtles-exploring-data-tracking-turtle-movements_ningaloo-loggerhead.csv",
+        "url": "https://github.com/summ0001/FIT3179/blob/main/turtles-exploring-data-tracking-turtle-movements_ningaloo-loggerhead.csv",
         "format": {"type": "csv"}
       },
       "mark": {"type": "circle", "tooltip": {"content": "data"}},
@@ -53,7 +53,7 @@
     },
     {
       "data": {
-        "url": "turtles-exploring-data-tracking-turtle-movements_rosemary-island-hawksbill.csv",
+        "url": "https://github.com/summ0001/FIT3179/blob/main/turtles-exploring-data-tracking-turtle-movements_rosemary-island-hawksbill.csv",
         "format": {"type": "csv"}
       },
       "mark": {"type": "circle", "tooltip": {"content": "data"}},
