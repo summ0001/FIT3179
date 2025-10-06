@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Marine Turtle Events Map</title>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+        <style>
+            body {
+                text-align: center;
+                font-family: Arial, sans-serif;
+            }
+
+            #vis {
+                display: inline-block;
+                margin-top: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Marine Turtle Tracking in Australia</h2>
+        <div id="vis"></div>
+
+        <script type="text/javascript">
+            vegaEmbed('#vis', 'map.vg.json')
+                .then(function(result) {})
+                .catch(console.error);
+        </script>
+    </body>
+</html>
