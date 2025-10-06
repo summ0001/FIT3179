@@ -1,0 +1,22 @@
+Threat,Type,Severity,x,y,Image URL,Notes/Info
+Ghost Crab,Natural,8,320,280,Images/Threats/Ghost Crab.jpg,Major predator of hatchlings; 30% predation rate observed on Thevenard Island.
+Red Fox,Natural,9,380,240,Images/Threats/Red Fox.jpeg,Significant nest predator; 25 of 28 loggerhead nests raided.
+Plastic Pollution,Human,10,250,200,Images/Threats/Plastic Pollution.jpg,Causes ingestion & entanglement; 52% of turtles have ingested plastic.
+Boat Strikes,Human,7,400,310,Images/Threats/Boat Strike.jpeg,Leads to turtle fatalities; second most common cause in Moreton Bay.
+Habitat Destruction,Human,6,420,260,Images/Threats/Habitat Destruction.jpeg,Coastal development impacts nesting sites
+Raccoon,Natural,8,280,320,Images/Threats/Raccoon.jpg,Digs up nests to consume eggs.
+Coyote,Natural,7,200,250,Images/Threats/Coyote.jpeg,Preys on eggs and hatchlings.
+Feral Dog,Natural,6,230,300,Images/Threats/Feral Dog.jpg,Attacks nests and hatchlings.
+Armadillo,Natural,5,260,360,Images/Threats/Armadillo.jpg,Consumes eggs; less common but notable.
+Fire Ant,Natural,4,310,400,Images/Threats/Fire Ant.jpg,Attacks hatchlings during emergence.
+Birds,Natural,6,350,370,Images/Threats/Bird.jpg,Preys on hatchlings during beach run.
+Crocodile,Natural,9,470,280,Images/Threats/Crocodile.jpg,Preys on adult turtles in certain regions.
+Tiger Shark,Natural,10,490,230,Images/Threats/Tiger Shark.jpg,Major predator of adult turtles.
+Killer Whale (Orca),Natural,10,450,180,Images/Threats/Killer Whale.jpg,Known to attack adult turtles.
+Dolphin,Natural,7,370,150,Images/Threats/Dolphin.jpg,Preys on hatchlings and juveniles.
+Grouper,Natural,6,310,130,Images/Threats/Grouper.jpg,Eats hatchlings and juveniles.
+Jellyfish,Natural,5,250,140,Images/Threats/Jellyfish.jpg,Food source for some turtle species; not a threat.
+Coral,Natural,3,200,180,Images/Threats/Coral.jpg,Habitat for some turtle species; not a threat.
+Plastic Debris,Human,10,180,330,Images/Threats/Plastic Debris.jpg,Ingestion leads to death; major threat.
+Oil Spill,Human,9,220,400,Images/Threats/Oil Spill.jpg,Contaminates habitats; toxic to turtles.
+Climate Change,Human,8,150,250,Images/Threats/Climate Change.png,Alters nesting sites and hatchling sex ratios.
