@@ -15,38 +15,64 @@
             margin: 0;
             padding: 0;
             text-align: center;
+            color: #333;
         }
 
         header {
             background-color: #00796b;
             color: white;
-            padding: 20px 0;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 40px 20px 20px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
         }
 
         header h1 {
             margin: 0;
             font-weight: 600;
+            font-size: 2.2rem;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            margin-top: 10px;
+        }
+
+        .intro {
+            width: 75%;
+            margin: 30px auto 50px;
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #444;
+            background-color: #e0f2f1;
+            padding: 20px 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.05);
         }
 
         .section {
-            margin: 40px auto;
-            width: 70%;
+            margin: 50px auto;
+            width: 75%;
             background-color: white;
-            padding: 20px;
+            padding: 25px;
             border-radius: 12px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            transition: transform 0.2s;
+        }
+
+        .section:hover {
+            transform: translateY(-3px);
         }
 
         .section h2 {
             margin-top: 0;
             color: #00796b;
+            font-size: 1.5rem;
+            margin-bottom: 15px;
         }
 
         .vis-container {
-            width: 90%;
+            width: 95%;
             margin: 0 auto;
-            padding: 10px;
+            padding: 15px 0;
         }
 
         #imagePreview {
@@ -66,6 +92,10 @@
             transform: scale(1.05);
         }
 
+        #dietVis, #timelineVis, #mapVis, #anatomyVis {
+            margin-top: 20px;
+        }
+
         .caption {
             font-size: 0.9rem;
             color: #555;
@@ -76,7 +106,21 @@
             font-size: 1rem;
             color: #333;
             margin-top: 15px;
-            line-height: 1.5;
+            line-height: 1.6;
+        }
+
+        /* Highlight section headings */
+        .section h2::before {
+            content: "🌿 ";
+        }
+
+        /* Optional: subtle divider */
+        .divider {
+            height: 3px;
+            width: 80px;
+            background-color: #00796b;
+            margin: 15px auto 25px;
+            border-radius: 2px;
         }
     </style>
 </head>
@@ -84,24 +128,69 @@
 <body>
     <header>
         <h1>Marine Turtles</h1>
-        <p>Explore the sea turtles predators, human threats, and tracking data in Australia</p>
+        <p>Explore sea turtles’ predators, diet, anatomy, conservation efforts, and tracking data in Australia</p>
     </header>
 
+    <div class="intro">
+        <p>
+            Sea turtles are ancient marine reptiles that have been navigating the oceans for over 100 million years. 
+            They play a crucial role in maintaining the health of marine ecosystems, from controlling jellyfish populations 
+            to supporting seagrass beds that help sustain coastal habitats. Despite their ecological importance, many 
+            species are threatened by habitat loss, pollution, climate change, and illegal hunting. This interactive 
+            visualisation allows you to explore various aspects of marine turtles, including their anatomy, diet, 
+            threats, distribution, and the global conservation efforts that help protect them.
+        </p>
+    </div>
+
     <div class="section">
-        <h2>🐢Sea Turtle Predators and Threats</h2>
+        <h2>Sea Turtle Anatomy</h2>
+        <div id="anatomyVis" class="vis-container"></div>
+        <div class="divider"></div>
+        <p class="caption">Hover over the parts of the turtle to learn more about its anatomy.</p>
+    </div>
+
+    <div class="section">
+        <h2>Sea Turtle Diet Composition</h2>
+        <div id="dietVis" class="vis-container"></div>
+        <div class="divider"></div>
+        <p class="caption">Each pie chart shows the types of food commonly eaten by each turtle species.</p>
+        <p class="explanation">
+            These pie charts illustrate the main dietary preferences of each marine turtle species. 
+            Although exact proportions are not known, each chart shows the variety of food types that make up a turtle's diet, 
+            from algae and sponges to jellyfish and crustaceans.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Nesting and Hatching Timeline</h2>
+        <div id="nestingHatchingVis" class="vis-container"></div>
+        <div class="divider"></div>
+        <p class="caption">Nesting and Hatching Seasons of Marine Turtles Throughout the Year</p>
+        <p class="explanation">
+            This circular chart visualises the annual nesting and hatching periods of various marine turtle species.
+            Each species is represented as a concentric ring, with colored arcs indicating its nesting (blue) and hatching (green) periods.
+            The circular layout makes it easy to compare species’ reproductive cycles at a glance, observe overlaps between species, and understand the seasonality of turtle life stages.
+            Conservationists can use this information to plan protection efforts during critical months.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Sea Turtle Predators and Threats</h2>
         <div id="vis" class="vis-container"></div>
         <div id="imagePreview"></div>
+        <div class="divider"></div>
         <p class="caption">Hover over the bubbles to see images and details of predators and threats.</p>
         <p class="explanation">
             This bubble chart shows the main predators and human-related threats to sea turtles. 
             The size of each bubble represents the severity of the threat, while the color indicates 
-            whether it is natural or human-caused. Hover over a bubble to view additional information.
+            whether it is natural or human-caused.
         </p>
     </div>
-    
+
     <div class="section">
-        <h2>🐢Marine Turtle Tracking in Australia</h2>
+        <h2>Marine Turtle Tracking in Australia</h2>
         <div id="mapVis"></div>
+        <div class="divider"></div>
 
         <script type="text/javascript">
             vegaEmbed('#mapVis', 'js/map.vg.json')
@@ -115,11 +204,25 @@
             You can filter the map by species to focus on a particular type of turtle. 
             The locations help visualise patterns in turtle distribution and movement along the coast.
         </p>
-
     </div>
 
-    <!-- Link to JS files -->
+    <div class="section">
+        <h2>Marine Turtle Conservation Timeline</h2>
+        <div id="timelineVis" class="vis-container"></div>
+        <div class="divider"></div>
+        <p class="caption">Wave-like timeline of key marine turtle conservation efforts worldwide.</p>
+        <p class="explanation">
+            This timeline shows important conservation milestones, helping you understand how global efforts 
+            have evolved to protect these ancient creatures.
+        </p>
+    </div>
+
+    <!-- JS files -->
+    <script src="js/turtle_anatomy.js"></script>
+    <script src="js/diet_chart.js"></script>
+    <script src="js/nesting_hatching_chart.js"></script>
     <script src="js/threats_chart.js"></script>
     <script src="js/map_chart.js"></script>
+    <script src="js/conservation_timeline.js"></script>
 </body>
 </html>

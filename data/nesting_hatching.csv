@@ -1,0 +1,19 @@
+Species,Event,StartMonth,EndMonth
+Southern Great Barrier Reef Green Turtle,Nesting,10,4
+Southern Great Barrier Reef Green Turtle,Hatching,12,5
+Northern Great Barrier Reef Green Turtle,Nesting,10,3
+Northern Great Barrier Reef Green Turtle,Hatching,12,5
+Gulf of Carpentaria Green Turtle,Nesting,1,12
+Gulf of Carpentaria Green Turtle,Hatching,8,9
+Eastern Queensland Flatback Turtle,Nesting,10,1
+Eastern Queensland Flatback Turtle,Hatching,12,3
+Arafura Sea Flatback Turtle,Nesting,1,12
+Arafura Sea Flatback Turtle,Hatching,1,12
+Hawksbill Turtle,Nesting,1,12
+Hawksbill Turtle,Hatching,2,5
+Loggerhead Turtle,Nesting,10,3
+Loggerhead Turtle,Hatching,12,5
+Olive Ridley Turtle,Nesting,3,10
+Olive Ridley Turtle,Hatching,5,12
+Leatherback Turtle,Nesting,12,1
+Leatherback Turtle,Hatching,2,3
