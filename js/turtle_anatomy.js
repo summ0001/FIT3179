@@ -9,7 +9,7 @@ diagramContainer.style.margin = 'auto';
 
 // Add the turtle image
 const img = document.createElement('img');
-img.src = 'images/turtle_anatomy.jpg';
+img.src = 'https://github.com/summ0001/FIT3179/blob/main/Images/turtle_anatomy.jpg';
 img.alt = 'Sea Turtle';
 img.style.width = '100%';
 img.style.display = 'block';
