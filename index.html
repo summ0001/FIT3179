@@ -190,14 +190,10 @@
     <div class="section">
         <h2>Marine Turtle Tracking in Australia</h2>
         <div id="mapVis"></div>
+        <div style="text-align: center; margin: 15px 0;">
+            <button id="resetMapBtn" style="padding:5px 10px; font-family:Poppins;">Reset Map</button>
+        </div>
         <div class="divider"></div>
-
-        <script type="text/javascript">
-            vegaEmbed('#mapVis', 'js/map.vg.json')
-                .then(function(result) {})
-                .catch(console.error);
-        </script>
-
         <p class="caption">Map showing the locations of turtle sightings. Use the filter to select species.</p>
         <p class="explanation">
             This map displays recorded sightings of different marine turtle species across Australia. 
