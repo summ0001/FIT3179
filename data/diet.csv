@@ -1,32 +1,32 @@
-Species,Food,Notes
-Green Turtle,Algae,Feeds on algae and seaweed near coral reefs and seagrass meadows.
-Green Turtle,Seaweed,Consumes floating and attached seaweed in coastal zones.
-Green Turtle,Seagrass,Primary diet item; helps maintain healthy seagrass beds.
-Leatherback,Jellies,Specialised feeder on jellyfish; keeps jelly populations in check.
-Leatherback,Tunicates,Eats tunicates and other gelatinous creatures.
-Leatherback,Sea Squirts,Feeds on sea squirts and similar soft-bodied organisms.
-Loggerhead,Crabs,Powerful jaws for crushing crab shells.
-Loggerhead,Conchs,Feeds on conchs and other hard-shelled mollusks.
-Loggerhead,Whelks,Commonly consumes whelks and similar snails.
-Loggerhead,Horseshoe Crabs,Hunts horseshoe crabs along sandy bottoms.
-Hawksbill,Sponges,Feeds almost exclusively on sponges found in coral reefs.
-Olive Ridley,Crabs,Eats small crabs in coastal and offshore waters.
-Olive Ridley,Shrimp,Feeds on shrimp and other small crustaceans.
-Olive Ridley,Lobster,Occasionally consumes juvenile lobsters.
-Olive Ridley,Sea Urchins,Feeds on benthic urchins and other echinoderms.
-Olive Ridley,Jellies,Also eats jellyfish when available.
-Olive Ridley,Algae,Consumes algae and plant material opportunistically.
-Olive Ridley,Fish,Preys on small fish when other food is scarce.
-Kemp’s Ridley,Crabs,Prefers crabs; often seen hunting them in shallow waters.
-Kemp’s Ridley,Fish,Also feeds on small fish in estuaries and bays.
-Kemp’s Ridley,Jellies,Occasionally eats jellyfish.
-Kemp’s Ridley,Shrimp,Feeds on shrimp in sandy and muddy habitats.
-Kemp’s Ridley,Mollusks,Eats small mollusks and bivalves.
-Flatback,Sea Cucumbers,Commonly feeds on sea cucumbers on the seabed.
-Flatback,Jellies,Consumes jellyfish and other soft invertebrates.
-Flatback,Corals,Feeds on soft corals and associated fauna.
-Flatback,Shrimp,Eats shrimp and other crustaceans.
-Flatback,Crabs,Feeds on small crabs near coastal reefs.
-Flatback,Mollusks,Consumes mollusks and shellfish.
-Flatback,Fish,Preys on small fish species.
-Flatback,Seaweed,Occasionally eats seaweed and plant matter.
+source,target,value,notes
+Green Turtle,Algae,1,Feeds on algae and seaweed near coral reefs and seagrass meadows.
+Green Turtle,Seaweed,1,Consumes floating and attached seaweed in coastal zones.
+Green Turtle,Seagrass,1,Primary diet item; helps maintain healthy seagrass beds.
+Leatherback,Jellies,1,Specialised feeder on jellyfish; keeps jelly populations in check.
+Leatherback,Tunicates,1,Eats tunicates and other gelatinous creatures.
+Leatherback,Sea Squirts,1,Feeds on sea squirts and similar soft-bodied organisms.
+Loggerhead,Crabs,1,Powerful jaws for crushing crab shells.
+Loggerhead,Conchs,1,Feeds on conchs and other hard-shelled mollusks.
+Loggerhead,Whelks,1,Commonly consumes whelks and similar snails.
+Loggerhead,Horseshoe Crabs,1,Hunts horseshoe crabs along sandy bottoms.
+Hawksbill,Sponges,1,Feeds almost exclusively on sponges found in coral reefs.
+Olive Ridley,Crabs,1,Eats small crabs in coastal and offshore waters.
+Olive Ridley,Shrimp,1,Feeds on shrimp and other small crustaceans.
+Olive Ridley,Lobster,1,Occasionally consumes juvenile lobsters.
+Olive Ridley,Sea Urchins,1,Feeds on benthic urchins and other echinoderms.
+Olive Ridley,Jellies,1,Also eats jellyfish when available.
+Olive Ridley,Algae,1,Consumes algae and plant material opportunistically.
+Olive Ridley,Fish,1,Preys on small fish when other food is scarce.
+Kemp’s Ridley,Crabs,1,Prefers crabs; often seen hunting them in shallow waters.
+Kemp’s Ridley,Fish,1,Also feeds on small fish in estuaries and bays.
+Kemp’s Ridley,Jellies,1,Occasionally eats jellyfish.
+Kemp’s Ridley,Shrimp,1,Feeds on shrimp in sandy and muddy habitats.
+Kemp’s Ridley,Mollusks,1,Eats small mollusks and bivalves.
+Flatback,Sea Cucumbers,1,Commonly feeds on sea cucumbers on the seabed.
+Flatback,Jellies,1,Consumes jellyfish and other soft invertebrates.
+Flatback,Corals,1,Feeds on soft corals and associated fauna.
+Flatback,Shrimp,1,Eats shrimp and other crustaceans.
+Flatback,Crabs,1,Feeds on small crabs near coastal reefs.
+Flatback,Mollusks,1,Consumes mollusks and shellfish.
+Flatback,Fish,1,Preys on small fish species.
+Flatback,Seaweed,1,Occasionally eats seaweed and plant matter.

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Marine Turtle Visualisation</title>
@@ -7,218 +8,331 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-
-    <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-            background-color: #f0f9f9;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-            color: #333;
-        }
-
-        header {
-            background-color: #00796b;
-            color: white;
-            padding: 40px 20px 20px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-        }
-
-        header h1 {
-            margin: 0;
-            font-weight: 600;
-            font-size: 2.2rem;
-        }
-
-        header p {
-            font-size: 1.1rem;
-            margin-top: 10px;
-        }
-
-        .intro {
-            width: 75%;
-            margin: 30px auto 50px;
-            font-size: 1rem;
-            line-height: 1.6;
-            color: #444;
-            background-color: #e0f2f1;
-            padding: 20px 25px;
-            border-radius: 12px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-        }
-
-        .section {
-            margin: 50px auto;
-            width: 75%;
-            background-color: white;
-            padding: 25px;
-            border-radius: 12px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-            transition: transform 0.2s;
-        }
-
-        .section:hover {
-            transform: translateY(-3px);
-        }
-
-        .section h2 {
-            margin-top: 0;
-            color: #00796b;
-            font-size: 1.5rem;
-            margin-bottom: 15px;
-        }
-
-        .vis-container {
-            width: 95%;
-            margin: 0 auto;
-            padding: 15px 0;
-        }
-
-        #imagePreview {
-            margin-top: 20px;
-        }
-
-        #imagePreview img {
-            width: 200px;
-            height: 200px;
-            border-radius: 12px;
-            object-fit: cover;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-            transition: transform 0.2s;
-        }
-
-        #imagePreview img:hover {
-            transform: scale(1.05);
-        }
-
-        #dietVis, #timelineVis, #mapVis, #anatomyVis {
-            margin-top: 20px;
-        }
-
-        .caption {
-            font-size: 0.9rem;
-            color: #555;
-            margin-top: 10px;
-        }
-
-        .explanation {
-            font-size: 1rem;
-            color: #333;
-            margin-top: 15px;
-            line-height: 1.6;
-        }
-
-        /* Highlight section headings */
-        .section h2::before {
-            content: "🌿 ";
-        }
-
-        /* Optional: subtle divider */
-        .divider {
-            height: 3px;
-            width: 80px;
-            background-color: #00796b;
-            margin: 15px auto 25px;
-            border-radius: 2px;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <header>
         <h1>Marine Turtles</h1>
-        <p>Explore sea turtles’ predators, diet, anatomy, conservation efforts, and tracking data in Australia</p>
+        <p>Explore sea turtles’ biology, movement, threats, and conservation efforts</p>
     </header>
 
     <div class="intro">
         <p>
-            Sea turtles are ancient marine reptiles that have been navigating the oceans for over 100 million years. 
-            They play a crucial role in maintaining the health of marine ecosystems, from controlling jellyfish populations 
-            to supporting seagrass beds that help sustain coastal habitats. Despite their ecological importance, many 
-            species are threatened by habitat loss, pollution, climate change, and illegal hunting. This interactive 
-            visualisation allows you to explore various aspects of marine turtles, including their anatomy, diet, 
-            threats, distribution, and the global conservation efforts that help protect them.
+            Sea turtles are ancient marine reptiles that have been navigating the oceans for over 100 million years.
+            There
+            are seven species of sea turtles, six of which are considered threatened or endangered, primarily due to
+            human
+            activities such as habitat destruction, pollution, climate change, and illegal hunting. They play a crucial
+            role
+            in maintaining marine ecosystems, from controlling jellyfish populations to supporting seagrass beds. This
+            visualisation explores their anatomy, diet, movement, threats, and conservation efforts.
         </p>
     </div>
 
-    <div class="section">
-        <h2>Sea Turtle Anatomy</h2>
-        <div id="anatomyVis" class="vis-container"></div>
-        <div class="divider"></div>
-        <p class="caption">Hover over the parts of the turtle to learn more about its anatomy.</p>
-    </div>
+    <section class="chapter">
+        <h2>1. Turtle Biology & Identification</h2>
 
-    <div class="section">
-        <h2>Sea Turtle Diet Composition</h2>
-        <div id="dietVis" class="vis-container"></div>
-        <div class="divider"></div>
-        <p class="caption">Each pie chart shows the types of food commonly eaten by each turtle species.</p>
-        <p class="explanation">
-            These pie charts illustrate the main dietary preferences of each marine turtle species. 
-            Although exact proportions are not known, each chart shows the variety of food types that make up a turtle's diet, 
-            from algae and sponges to jellyfish and crustaceans.
-        </p>
-    </div>
+        <div class="grid">
+            <div class="grid-item">
+                <h3>Sea Turtle Anatomy</h3>
+                <div id="anatomyVis" class="vis-container"></div>
+                <p class="caption">
+                    Hover over the key anatomical features of the sea turtle to explore the shell structure, flippers,
+                    and
+                    head to understand how each part aids in survival and movement.
+                </p>
+            </div>
 
-    <div class="section">
-        <h2>Nesting and Hatching Timeline</h2>
-        <div id="nestingHatchingVis" class="vis-container"></div>
-        <div class="divider"></div>
-        <p class="caption">Nesting and Hatching Seasons of Marine Turtles Throughout the Year</p>
-        <p class="explanation">
-            This circular chart visualises the annual nesting and hatching periods of various marine turtle species.
-            Each species is represented as a concentric ring, with colored arcs indicating its nesting (blue) and hatching (green) periods.
-            The circular layout makes it easy to compare species’ reproductive cycles at a glance, observe overlaps between species, and understand the seasonality of turtle life stages.
-            Conservationists can use this information to plan protection efforts during critical months.
-        </p>
-    </div>
+            <div class="grid-item">
+                <p>
+                    Sea turtles are remarkable marine reptiles with unique adaptations that have allowed them to thrive
+                    in the
+                    oceans for over 100 million years. Their strong, streamlined shells protect them from predators,
+                    while their
+                    powerful flippers enable long-distance swimming and precise maneuvering in diverse habitats.
+                    Different
+                    species display fascinating variations: for example, green turtles are primarily herbivorous,
+                    feeding on
+                    seagrass and algae, whereas loggerheads favor a diet of crustaceans and mollusks. Understanding
+                    these
+                    anatomical differences is key to identifying species and studying their ecological roles. The life
+                    cycle
+                    of sea turtles is equally extraordinary, from hatchlings making perilous journeys from nest to sea,
+                    to adults
+                    navigating vast ocean currents to reach feeding and nesting grounds. By exploring their anatomy,
+                    diet, and
+                    lifecycle, we gain insight into their survival strategies and the challenges they face, which is
+                    essential
+                    for effective conservation planning.
+                </p>
 
-    <div class="section">
-        <h2>Sea Turtle Predators and Threats</h2>
-        <div id="vis" class="vis-container"></div>
-        <div id="imagePreview"></div>
-        <div class="divider"></div>
-        <p class="caption">Hover over the bubbles to see images and details of predators and threats.</p>
-        <p class="explanation">
-            This bubble chart shows the main predators and human-related threats to sea turtles. 
-            The size of each bubble represents the severity of the threat, while the color indicates 
-            whether it is natural or human-caused.
-        </p>
-    </div>
+                <div class="card">
+                    <h3>Species Identification Quiz</h3>
+                    <button id="openQuizBtn" style="padding:10px 15px; cursor:pointer;">Start Quiz</button>
+                    <p class="caption">
+                        Use this interactive species identification quiz to determine the turtle species based on their
+                        shell patterns and anatomical features.
+                    </p>
+                </div>
+            </div>
 
-    <div class="section">
-        <h2>Marine Turtle Tracking in Australia</h2>
-        <div id="mapVis"></div>
-        <div style="text-align: center; margin: 15px 0;">
-            <button id="resetMapBtn" style="padding:5px 10px; font-family:Poppins;">Reset Map</button>
+            <!-- Modal structure -->
+            <div id="quizModal" class="modal">
+                <div class="modal-content">
+                    <span class="closeBtn">&times;</span>
+                    <div id="quiz-container">
+                        <h1>Turtle Identification</h1>
+                        <div id="quiz">
+                            <button id="startBtn">Start Identification</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="divider"></div>
-        <p class="caption">Map showing the locations of turtle sightings. Use the filter to select species.</p>
-        <p class="explanation">
-            This map displays recorded sightings of different marine turtle species across Australia. 
-            You can filter the map by species to focus on a particular type of turtle. 
-            The locations help visualise patterns in turtle distribution and movement along the coast.
-        </p>
-    </div>
+        <div class="grid">
+            <div class="grid-item full-width">
+                <h3>Sea Turtle Diet Composition</h3>
+                <div id="dietVis" class="vis-container"></div>
+                <p class="caption">
+                    Sea turtles have diverse diets depending on their species. While green turtles are primarily
+                    herbivorous,
+                    loggerheads feed mostly on crustaceans. This Sankey diagram illustrates the relationships between
+                    turtle
+                    species and their preferred food sources.
+                </p>
+            </div>
 
-    <div class="section">
-        <h2>Marine Turtle Conservation Timeline</h2>
-        <div id="timelineVis" class="vis-container"></div>
-        <div class="divider"></div>
-        <p class="caption">Wave-like timeline of key marine turtle conservation efforts worldwide.</p>
-        <p class="explanation">
-            This timeline shows important conservation milestones, helping you understand how global efforts 
-            have evolved to protect these ancient creatures.
-        </p>
-    </div>
+            <div class="grid-item">
+                <h3>Sea Turtle Lifecycle</h3>
+                <div id="lifecycleVis" class="vis-container"></div>
+                <p class="caption">
+                    From hatchlings emerging on sandy beaches to adults returning to nesting grounds, sea turtles
+                    undergo
+                    a fascinating life cycle. This chart tracks each stage, including juvenile growth, sexual maturity,
+                    and
+                    migratory patterns.
+                </p>
+            </div>
+        </div>
+    </section>
 
-    <!-- JS files -->
+    <section class="chapter">
+        <h2>2. Nesting & Migration</h2>
+
+        <div class="grid grid-nesting-map">
+            <div class="grid-item">
+                <p>Marine turtles undertake some of the longest migrations in the animal kingdom, traveling hundreds or
+                    even
+                    thousands of kilometers between their feeding grounds and nesting beaches. These journeys are guided
+                    by
+                    remarkable natural navigational abilities, including sensing ocean currents, magnetic fields, and
+                    environmental cues. Female turtles often return to the very beaches where they were born to lay
+                    their eggs,
+                    a phenomenon known as natal homing. Timing is critical, nesting occurs during specific seasons to
+                    maximise
+                    hatchling survival, and hatchlings instinctively make their way from the nest to the ocean,
+                    beginning their
+                    first migration. Understanding these patterns of movement and nesting behavior is essential to
+                    appreciating
+                    the life cycle of marine turtles.
+                </p>
+
+                <p>
+                    In addition to these long migrations, different turtle species have distinct nesting and hatching
+                    schedules
+                    that are closely tied to regional environmental conditions. Some species nest year-round in tropical
+                    areas,
+                    while others have highly seasonal nesting periods. Protecting these critical nesting beaches and
+                    ensuring
+                    safe passage for hatchlings is essential, as even small disturbances can significantly affect
+                    survival rates.
+                    By studying these migration and nesting patterns, scientists can better understand population
+                    dynamics and
+                    implement effective conservation strategies to safeguard these ancient marine travelers.
+                </p>
+            </div>
+
+            <div class="grid-item map-column">
+                <h3>Marine Turtle Tracking Map (Australia)</h3>
+                <div id="mapVis1" class="vis-container"></div>
+                <button id="resetMapBtn1">Reset Map</button>
+                <p class="caption">
+                    Use the map controls to zoom in and filter by species to explore turtle movements across Australia.
+                </p>
+            </div>
+        </div>
+        <div class="grid">
+            <div class="grid-item">
+                <h3>Nesting and Hatching Timeline</h3>
+                <div id="nestingHatchingVis" class="vis-container"></div>
+                <p class="caption">
+                    This visualisation shows the nesting seasons and hatching periods for different turtle species. Note
+                    how
+                    timing varies depending on species and region
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="chapter">
+        <h2>3. Threats & Environmental Challenges</h2>
+        <h3 class="subheading">Predators and Human Threats</h3>
+        <div class="grid">
+            <div class="grid-item">
+                <p>Despite their incredible adaptations and long evolutionary history, sea turtles face a wide array of threats
+                    that jeopardise their survival. Natural predators such as sharks and large birds prey on eggs, hatchlings,
+                    and occasionally adults. Yet the greatest dangers stem from human activity — coastal development reduces
+                    nesting habitat, pollution and plastic waste cause entanglement or ingestion, and bycatch in fishing gear
+                    leads to countless accidental deaths. Climate change adds further stress by altering ocean currents, raising
+                    sea levels, and changing sand temperatures at nesting sites, which can affect hatchling sex ratios.
+                </p>
+                <p>
+                    While these challenges are severe, coordinated conservation efforts offer hope. International protection
+                    laws, community-based beach patrols, and improved fishing practices have all contributed to stabilising some
+                    populations. Continued research into migration patterns, habitat use, and climate resilience helps refine
+                    conservation strategies. Educating local communities and promoting sustainable tourism can also foster
+                    coexistence, ensuring these ancient mariners continue to thrive in the world’s oceans.
+                </p>
+            </div>
+
+            <div class="grid-item">
+                <h3>Predators and Threats</h3>
+                <div id="vis" class="vis-container"></div>
+                <div id="imagePreview"></div>
+                <p class="caption">
+                    Hover over the chart to see the main threats and predators of sea turtles.
+                </p>
+            </div>
+        </div>
+
+        <h3 class="subheading">Human Impacts on Marine Environments</h3>
+        <div class="grid">
+            <div class="grid-item">
+                <p>Sea turtles are increasingly affected by a variety of human-induced threats that compromise their
+                    survival.
+                    Climate change is one of the most pressing issues: rising ocean temperatures not only alter turtle
+                    migration patterns but also damage critical habitats like coral reefs and seagrass beds, which serve
+                    as
+                    feeding and nesting grounds. Bleaching events caused by warmer waters destroy coral ecosystems,
+                    while
+                    rising sea levels can inundate nesting beaches. Pollution is another major factor—turtles often
+                    mistake
+                    plastic debris, fishing nets, and other waste for food, leading to ingestion, entanglement, or
+                    internal
+                    injuries that can be fatal. Chemical pollutants, such as pesticides and heavy metals, accumulate in
+                    marine
+                    food webs, further affecting turtle health. Other human activities, like coastal development and
+                    bycatch
+                    in fishing gear, exacerbate these challenges. Understanding these interconnected threats is vital
+                    for
+                    designing effective conservation strategies, including habitat restoration, pollution reduction, and
+                    climate mitigation, to ensure the long-term survival of sea turtles."
+                </p>
+            </div>
+
+            <div class="grid-item">
+                <h3>Ocean Pollution Sources</h3>
+                <div id="riverBarVis" class="vis-container"></div>
+                <p class="caption">
+                    This bar chart ranks the top 10 rivers contributing the most plastic waste to oceans worldwide.
+                    Observe
+                    which regions require urgent intervention.
+                </p>
+            </div>
+        </div>
+        <div class="grid">
+            <div class="grid-item full-width">
+                <h3>Sea Temperature Trends Around Australia</h3>
+                <div id="sstVis" class="vis-container"></div>
+                <p class="caption">
+                    Long-term warming of sea surface temperatures affects turtle nesting behavior, sex ratios of
+                    hatchlings, and
+                    ocean ecosystems. This chart illustrates changes in temperature around Australia over more than 150
+                    years.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="chapter">
+        <h2>4. Conservation Efforts</h2>
+        <p class="chapter-intro">
+            Global conservation initiatives have made significant progress in protecting marine turtles. From beach
+            patrols to
+            protected nesting areas, this timeline highlights milestones in conservation efforts and ongoing strategies
+            to
+            ensure the survival of these ancient species.
+        </p>
+
+        <!-- KPI Grid -->
+        <div class="kpi-grid">
+            <div class="kpi-card">
+                <h4>Protected Nesting Beaches</h4>
+                <p>Over 2,900 identified globally</p>
+            </div>
+            <div class="kpi-card">
+                <h4>Turtle Excluder Devices (TEDs)</h4>
+                <p>Implemented in 12 countries</p>
+            </div>
+            <div class="kpi-card">
+                <h4>Rehabilitated Sea Turtles Released</h4>
+                <p>Over 11,000 since 1997</p>
+            </div>
+            <div class="kpi-card">
+                <h4>Species Status Improvement</h4>
+                <p>Green Turtle: Endangered → Least Concern</p>
+            </div>
+        </div>
+
+        <!-- Timeline Visualization -->
+        <div class="grid">
+            <div class="grid-item full-width">
+                <h3>Marine Turtle Conservation Timeline</h3>
+                <div id="timelineVis" class="vis-container"></div>
+                <p class="caption">
+                    A timeline of global conservation initiatives highlighting the efforts made to save these ancient
+                    creatures.
+                </p>
+            </div>
+        </div>
+    </section>
+
+<div class="footer">
+  <div class="footer-content">
+    <p><strong>Designed by:</strong> Sinan Ummu — October 2025<br>
+    <strong>Course:</strong> FIT3179 Data Visualisation 2<br>
+    This visualisation may be shared or used with proper attribution to the creator and the original data sources.</p>
+
+    <h3>References</h3>
+    <ul>
+      <li>Sea Turtle Space Coast. <em>What Do Sea Turtles Eat?</em> <a href="https://seaturtlespacecoast.org/what-do-sea-turtles-eat/" target="_blank">https://seaturtlespacecoast.org/what-do-sea-turtles-eat/</a></li>
+      <li>Stack Overflow. <em>Sankey Diagram (Alluvial Diagram) in Vega-Lite.</em> <a href="https://stackoverflow.com/questions/66387154/sankey-diagram-alluvial-diagram-in-vega-lite" target="_blank">https://stackoverflow.com/questions/66387154/sankey-diagram-alluvial-diagram-in-vega-lite</a></li>
+      <li>Pinterest. <em>Turtle Anatomy Image.</em> <a href="https://in.pinterest.com/pin/1337074887097703/" target="_blank">https://in.pinterest.com/pin/1337074887097703/</a></li>
+      <li>Pinterest. <em>Sea Turtle Illustration.</em> <a href="https://au.pinterest.com/pin/716213147052223828/" target="_blank">https://au.pinterest.com/pin/716213147052223828/</a></li>
+      <li>Pinterest. <em>Ocean Image 1.</em> <a href="https://au.pinterest.com/pin/1688918606443453/" target="_blank">https://au.pinterest.com/pin/1688918606443453/</a></li>
+      <li>Pinterest. <em>Ocean Image 2.</em> <a href="https://au.pinterest.com/pin/64739313389535518/" target="_blank">https://au.pinterest.com/pin/64739313389535518/</a></li>
+      <li>Queensland Government. <em>Sea Turtle Nesting Areas Mapping.</em> <a href="https://environment.qld.gov.au/management/planning-guidelines/sea-turtle-nesting-areas-mapping" target="_blank">https://environment.qld.gov.au/management/planning-guidelines/sea-turtle-nesting-areas-mapping</a></li>
+      <li>NOAA. <em>Extended Reconstructed Sea Surface Temperature (ERSSTv5).</em> <a href="https://downloads.psl.noaa.gov/Datasets/noaa.ersst.v5/" target="_blank">https://downloads.psl.noaa.gov/Datasets/noaa.ersst.v5/</a></li>
+      <li>Great Barrier Reef Marine Park Authority. <em>Turtle Identification Sheet (PDF).</em> <a href="https://elibrary.gbrmpa.gov.au/jspui/bitstream/11017/659/1/turtle-identification-sheet.pdf" target="_blank">https://elibrary.gbrmpa.gov.au/.../turtle-identification-sheet.pdf</a></li>
+      <li>Our World in Data. <em>Top Rivers Contributing to Plastic Pollution.</em> <a href="https://ourworldindata.org/grapher/plastics-top-rivers" target="_blank">https://ourworldindata.org/grapher/plastics-top-rivers</a></li>
+      <li>NOAA Fisheries. <em>Sea Turtle Conservation.</em> <a href="https://www.fisheries.noaa.gov/topic/sea-turtles" target="_blank">https://www.fisheries.noaa.gov/topic/sea-turtles</a></li>
+      <li>IUCN Red List of Threatened Species. <a href="https://www.iucnredlist.org" target="_blank">https://www.iucnredlist.org</a></li>
+      <li>U.S. Fish & Wildlife Service. <em>Marine Turtle Conservation Fund.</em> <a href="https://www.fws.gov/marine-turtles" target="_blank">https://www.fws.gov/marine-turtles</a></li>
+    </ul>
+  </div>
+</div>
+
+    <!-- Scripts -->
     <script src="js/turtle_anatomy.js"></script>
+    <script src="js/dendrogram.js"></script>
+    <script src="js/lifecycle_chart.js"></script>
     <script src="js/diet_chart.js"></script>
     <script src="js/nesting_hatching_chart.js"></script>
     <script src="js/threats_chart.js"></script>
-    <script src="js/map_chart.js"></script>
+    <script src="js/river_pollution_chart.js"></script>
+    <script src="js/sea_temp_chart.js"></script>
+    <script src="js/tracking_map_chart.js"></script>
     <script src="js/conservation_timeline.js"></script>
 </body>
 </html>

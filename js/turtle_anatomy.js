@@ -1,22 +1,20 @@
 const container = document.getElementById('anatomyVis');
 
-// Create the anatomy container
 const diagramContainer = document.createElement('div');
 diagramContainer.id = 'diagramContainer';
 diagramContainer.style.position = 'relative';
 diagramContainer.style.width = '500px';
 diagramContainer.style.margin = 'auto';
 
-// Add the turtle image
 const img = document.createElement('img');
-img.src = 'https://github.com/summ0001/FIT3179/blob/main/Images/turtle_anatomy.jpg';
+img.src = 'Images/turtle_anatomy.jpg';
 img.alt = 'Sea Turtle';
 img.style.width = '100%';
 img.style.display = 'block';
 img.style.borderRadius = '12px';
 diagramContainer.appendChild(img);
 
-// Add the SVG overlay
+// SVG overlay
 const svgNS = "http://www.w3.org/2000/svg";
 const svg = document.createElementNS(svgNS, 'svg');
 svg.setAttribute('style', 'position:absolute;top:0;left:0;width:100%;height:100%;');
@@ -25,7 +23,7 @@ svg.setAttribute('style', 'position:absolute;top:0;left:0;width:100%;height:100%
 const points = [
     { id: 'skull', cx: 110, cy: 60, info: "Skull: made-up of fused bones, functions to protect the brain and sensory structures." },
     { id: 'beak', cx: 25, cy: 60, info: "Beak: modification of the jaw used for scraping, crushing, tearing, or biting." },
-    { id: 'eye', cx: 75, cy: 57, info:"Eye"},
+    { id: 'eye', cx: 75, cy: 57, info: "Eye" },
     { id: 'mouth', cx: 45, cy: 80, info: "Mouth: toothless, although, green turtles have a serrated beak." },
     { id: 'claw', cx: 230, cy: 340, info: "Claw" },
     { id: 'front flipper', cx: 320, cy: 325, info: "Front Flipper: functions both as a wing (lift) and a propeller (thrust)." },
@@ -50,12 +48,11 @@ tooltip.style.fontSize = '0.9rem';
 tooltip.style.zIndex = '10';
 diagramContainer.appendChild(tooltip);
 
-// Create the dot shapes
 points.forEach(point => {
     const dot = document.createElementNS(svgNS, 'circle');
     dot.setAttribute('cx', point.cx);
     dot.setAttribute('cy', point.cy);
-    dot.setAttribute('r', 6); // small dot radius
+    dot.setAttribute('r', 6);
     dot.setAttribute('fill', '#00796b');
     dot.setAttribute('id', point.id);
     dot.style.cursor = 'pointer';
